@@ -1,0 +1,723 @@
+business_uuid,date_won,city,business_type,sub_group,partner_pos
+1441080511293-5ce45dcd-b3ce-4dd9-9e6d-4047a6674d85,9/17/2015,Cape Town,sole_proprietor,Retail,0
+1443451760034-b317d70b-47b3-44cc-8238-bc93474e0d50,9/28/2015,Randburg,sole_proprietor,"Food, Drink & Hospitality",0
+1446269527540-68231650-1320-4ff9-943f-28412f8b9073,11/6/2015,Cape Town,sole_proprietor,Retail,0
+1446732341500-16b51c71-bf68-428d-a198-b63a8a978043,11/12/2015,Cape Town,sole_proprietor,Retail,0
+1407937721690-22878388-e481-46cb-8384-5dea165864f7,1/14/2015,Cape Town,,"Food, drink and hospitality",0
+1411120534868-d0e07e18-26b7-4e26-a0f3-45736855c3cd,4/1/2015,Claremont,company,"Healthcare, beauty and fitness",0
+1413229685934-2736f63b-6a6c-40a2-9d7a-2f479cc3a890,2/24/2015,Cape Town,,Professional services,0
+1414229837135-05cd5b05-3234-46df-9eb3-37f985b5f7a2,3/30/2015,Cape Town,company,Personal services,0
+1418589806521-9caf4317-1b5d-47cf-a5f7-8385ea2158be,2/25/2015,Cape Town,,"Healthcare, beauty and fitness",0
+1417541600310-062cad22-d0cd-4a7c-a22d-d8ed78959f18,2/1/2015,Cape Town,company,Leisure and entertainment,1
+1416991968075-1e231c80-b8de-47c6-9612-9feb7504a3b9,1/12/2015,Cape Town,,Professional services,1
+1420722276499-fd9bf0df-dedf-40e5-8666-82d19b5f51c5,1/15/2015,Cape Town,,"Food, drink and hospitality",0
+1420605018162-45e4ba4f-802b-45de-a679-bd6348373537,1/16/2015,Cape Town,,Online,0
+1421221986332-f5f14c2c-6a57-443c-8197-113c68f1ef4b,1/23/2015,Cape Town,,Professional services,0
+1421324996122-3b8c66c5-ed7c-4cd3-be70-00a21c525d46,1/23/2015,Cape Town,,"Food, drink and hospitality",1
+1421419812371-8c8c42be-c0bb-4f35-80cf-73dcf91399e6,1/26/2015,Cape Town,,"Food, drink and hospitality",1
+1421419812371-8c8c42be-c0bb-4f35-80cf-73dcf91399e6,1/26/2015,Cape Town,,"Food, drink and hospitality",1
+1421403907318-b5603f46-5343-401f-a7b2-4d1f1290f010,2/26/2015,Cape Town,,Retail,0
+1422897141317-dbc1a39b-e321-453e-ba0b-05e32de042d8,2/10/2015,Cape Town,,Home and repair,0
+1422897141317-dbc1a39b-e321-453e-ba0b-05e32de042d8,2/10/2015,Cape Town,,Professional services,0
+1422263726412-11064d9c-9616-4ded-bd63-7cd0e01863bf,2/27/2015,Cape Town,,Retail,0
+1422713364851-c5c0cb5c-fd24-4dcd-bb48-8df7fcbc26c3,4/16/2015,Somerset West,,Travel and tourism,0
+1422450997324-29c2b813-a986-4514-b387-58302f230567,2/24/2015,Cape Town,,Retail,0
+1423754950087-f0f2ca60-b59f-4c1b-8788-386d77bb3bc4,4/1/2015,Cape Town,,"Food, drink and hospitality",0
+1423729367094-337ac28c-dae5-4960-afab-19133561c17e,2/18/2015,Cape Town,,Retail,0
+1423655897813-8273bf5c-230e-4a17-9a71-5ec69fe178d7,2/12/2015,Cape Town,company,Professional services,0
+1423655183975-7e4fb3e1-4a6b-411b-bd1f-c8464d85dbd6,2/13/2015,Cape Town,,Professional services,0
+1423573102189-e5c08cd6-d921-4f6a-b7a4-04a806a92c93,2/18/2015,Cape Town,,Professional services,0
+1423477084869-bfa5887d-1d54-454c-b039-aab7891616ec,2/12/2015,Milnerton,,Personal services,0
+1424098685273-2a91b97c-d62c-41a3-a6b7-76e34febc3b2,2/23/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1424095125474-c11c84fc-2d00-4178-ae96-5021638b95f4,2/20/2015,Cape Town,,"Food, drink and hospitality",1
+1424466930488-c320a0ef-3776-48cc-ab0a-d5ad383bfb0b,9/29/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1425027704464-34909a98-baa7-4207-87be-16febec66288,2/27/2015,Somerset West,,"Food, drink and hospitality",0
+1424869704616-f6183d7b-1482-46ca-87e5-461aeec25da4,4/2/2015,Cape Town,company,"Food, drink and hospitality",1
+1424421101100-e8bf1849-b9f5-4cb4-b08e-092caf0c88ed,2/26/2015,Cape Town,,Online,0
+1424860575679-e0eba238-ac4a-4526-8b68-8c4341c2d58b,3/2/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1425564293295-a56ff3bc-f4bb-443a-95c1-8b2abd86b3d1,3/9/2015,Cape Town,company,"Food, drink and hospitality",0
+1424960060401-995ba2c2-612a-4b70-9b6d-db3b29f75122,4/29/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1425650677867-af9f5c07-3320-46e2-8d0a-74070c847c0f,5/8/2015,Cape Town,company,"Food, drink and hospitality",0
+1425889567843-bbaa0c06-f333-436e-87ea-a6845b31bb06,3/26/2015,Cape Town,company,"Food, drink and hospitality",1
+1426239670580-a4f2e6df-1bd3-4091-aa4f-555a9cb4b24c,3/16/2015,Cape Town,company,Retail,0
+1426195902626-8616ada4-0f1f-42e5-9b7b-5ae513e0997d,4/2/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1426243076640-cf34f1f7-ea20-4469-afa1-b63894f4f362,4/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1426585340178-175a0cc7-74f2-4725-a868-35f463546f9a,5/13/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1425989009217-466bfb2b-eff6-4af2-baf8-9b98b4ab0415,9/5/2015,Cape Town,company,"Food, drink and hospitality",0
+1426963769379-d1812b58-333e-4438-babe-d601b045abac,3/31/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1427219989860-379ffecc-b93e-4fb5-88bf-05a5c87e6c17,3/31/2015,Cape Town,company,"Food, drink and hospitality",0
+1427272525432-fd63bf67-0ce4-4313-ba96-9202c2fbb072,4/2/2015,Randburg,company,Transportation,0
+1428344708087-ad8630d4-3314-49a8-88ac-5f929fa99424,4/9/2015,Johannesburg,company,"Food, drink and hospitality",1
+1427891078868-c17bf9e4-aefc-4612-8ef7-a02359da5191,4/2/2015,Cape Town,company,Retail,0
+1427786157042-63ce318f-620e-4de1-afea-25d9dbf343af,4/5/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1428397053492-a987526e-03db-4b4e-904e-b362242539b8,5/1/2015,Paarl,company,"Food, drink and hospitality",0
+1428423767266-85e53df0-fe49-4d1c-ae91-751f0b6c8189,4/15/2015,Cape Town,company,Retail,0
+1428417731410-536dabfa-ffd7-4f94-99d4-7c634629aeb4,4/9/2015,Cape Town,company,Retail,1
+1427783177177-f02138cc-4154-497d-a9bd-158aef82dc39,4/1/2015,Cape Town,company,"Food, Drink & Hospitality",1
+1428419841893-a130da42-f8b6-42c1-9b6f-ed96aae83a94,4/10/2015,Robertson,company,"Food, drink and hospitality",0
+1428425695825-8ac79751-fcdf-4087-b620-60d0ab93e4f3,4/13/2015,Vredendal,company,"Food, drink and hospitality",1
+1428495841925-9121c420-21b1-413d-96b2-f4105cfb7bca,4/12/2015,Cape Town,sole_proprietor,Retail,0
+1428565181723-b27e4bc9-4a3d-4a53-b6a8-c368c00a32b0,4/12/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1428940315336-6eb9b71d-ce4f-4400-80fd-39498943fd32,5/12/2015,Cape Town,company,Retail,1
+1428592332253-dd98050f-24b3-4c98-80dd-8a15f102f31d,4/9/2015,Cape Town,sole_proprietor,Professional services,0
+1428654582282-97d37e90-32e8-4d9f-9cca-ce67de51c8e9,4/14/2015,Cape Town,company,"Food, Drink & Hospitality",1
+1432149242087-11140731-108a-4f50-a024-fede863e5d28,5/29/2015,Cape Town,company,Transportation,0
+1432268866037-3911326c-e3f1-4c14-a2b0-27a299b204f1,6/10/2015,Grabouw,sole_proprietor,Retail,0
+1432047874705-81fee962-e31d-466a-8636-3bbed55d685d,5/21/2015,Riebeek Kasteel ,company,"Food, drink and hospitality",0
+1432633437718-f75d48c2-b75a-4619-be78-9817014fd3cd,5/28/2015,Cape Town,sole_proprietor,Retail,0
+1432550633715-02a6215d-bca1-49f0-9714-94c1f7a1c034,5/28/2015,Johannesburg,company,Retail,0
+1432564287767-b195c3d0-c815-4ff2-8239-5504e0d1ae3a,5/28/2015,Cape Town,company,Online,0
+1432627619360-4a66ea0f-9880-4864-8425-73dd71cca7ef,5/26/2015,Johannesburg,sole_proprietor,Retail,0
+1432550741147-8475e83c-5804-447d-a2c3-5b9974ac4897,5/28/2015,Cape Town,company,"Food, drink and hospitality",1
+1432672583535-c75aa824-45d2-40f5-83c1-1a10f5e8159d,5/29/2015,Cape Town,company,Home and repair,0
+1432734187486-053c936a-c953-4c4b-a58c-2e7ed717229b,7/1/2015,Riebeek West,company,Retail,0
+1432803353457-bbc1cc61-aa78-47b5-8d92-d043ac338eae,6/13/2015,Cape Town,company,Home and repair,0
+1432797607708-aee8136d-ca30-49e5-859e-3ad9c2b72669,5/28/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1432798661970-cff69076-b97a-44c0-ad34-bb8c200fb883,9/10/2015,Cape Town,company,Home and repair,0
+1432641283681-dd0b6379-e775-40ee-96a0-09b5d0b90e81,6/20/2015,Cape Town,company,"Food, drink and hospitality",0
+1432636770766-1f30c4b3-35a7-4d54-b953-5d46f1644344,5/28/2015,Hermanus,trust,Travel and tourism,0
+1432733562129-93b2ad94-45a7-4f81-8eae-e6de64d83bde,5/29/2015,Johannesburg,sole_proprietor,Retail,0
+1433169329224-c4c7b1b9-5b7d-4620-92a0-a8f9118508a7,6/6/2015,Cape Town,practice,"Healthcare, beauty and fitness",0
+1432818983051-cb7d54f0-1ac8-44c4-bbc7-942af8fc7607,5/30/2015,Cape Town,company,"Food, drink and hospitality",0
+1433156141204-7cbf0aa6-f553-4dd6-b829-6c34c65b7438,6/28/2015,Cape Town,company,Professional services,0
+1433270867903-25bea10c-8548-44c4-9273-6ff1343ee4b4,6/8/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1433770819193-636532b9-35d6-43b7-8347-af48002dca4f,7/1/2015,Cape Town,sole_proprietor,Retail,0
+1433681122353-1ccfe4b0-0f96-4fff-84c3-773dbd16ee14,6/14/2015,Cape Town,company,"Food, drink and hospitality",0
+1433707463290-8f41e013-1aab-4c85-87ee-a7679b62424e,6/9/2015,Durban,company,Professional services,0
+1433252927321-e3230de9-bb7e-42d5-b522-3c9a8bf2fcb7,6/7/2015,Durban,company,Retail,0
+1433261949212-0f063505-cbe5-4a18-b3ba-59ee0df6652c,6/9/2015,Hermanus,company,"Food, drink and hospitality",1
+1433319623496-f6231f02-a6f4-4360-a556-eb1ca83b9f8c,6/10/2015,Cape Town,company,"Food, drink and hospitality",1
+1433609072307-649651f3-3239-4e52-b3e1-f94c3f6b1a3c,6/13/2015,Cape Town,sole_proprietor,Professional services,0
+1433428906337-4efdc371-fa58-4a30-80ce-4e9bde2f9da8,7/10/2015,Paarl,sole_proprietor,Travel and tourism,0
+1433928735588-d6660e0e-21a8-4975-ba15-52aa262c75a9,6/11/2015,Cape Town,company,"Food, drink and hospitality",1
+1433841037428-be3ad60e-256e-47a0-ad61-36ece3950578,6/12/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1433834146616-ecc2ef27-08a9-4617-a654-fd5f565b7c6b,6/23/2015,Cape Town,company,Professional services,0
+1433853192881-b2bb9d4e-3070-497f-9744-723a6a5a9f94,6/29/2015,Cape Town,sole_proprietor,Transportation,0
+1433857594053-512f9c3d-fa40-4c1f-a558-ba0e33a6da1f,6/14/2015,Cape Town,trust,Personal services,0
+1433859360513-006dee2f-fa51-4f3e-a007-89a8d9a10e28,6/11/2015,Cape Town,company,"Food, drink and hospitality",0
+1433942547963-1894f653-b8f2-492c-bce4-4f196a5d5094,6/17/2015,Cape Town,company,Home and repair,0
+1433949929785-da821c51-9e6d-4f7e-b6a7-731d95acdc57,6/17/2015,Cape Town,company,Professional services,0
+1434102082108-d8883d8b-fbeb-4a52-8257-d38a67ec1998,6/17/2015,Springbok,company,"Food, drink and hospitality",1
+1434097344634-121061d0-ba9c-443c-8443-be578018f30b,6/15/2015,Rustenburg,company,Online,0
+1433953924743-7e2c56e5-b3a3-4caa-9bc2-5c52ebac620f,6/11/2015,Cape Town,company,Professional services,0
+1434036820729-098fff2c-9f1b-4062-b9d7-5b13dbbf8509,6/12/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1434358209586-7ed3cdf9-cde7-43a0-b75e-73965b6ad152,6/30/2015,Cape Town,company,Travel and tourism,0
+1434354856779-1294da8e-95cd-4594-a337-eb1b461bcf9c,6/17/2015,Cape Town,company,"Food, drink and hospitality",1
+1434089879045-f2768b28-6c69-48b8-b39b-9f85e0548f90,6/12/2015,Cape Town,company,"Food, drink and hospitality",1
+1434017588684-d10062ea-411e-4433-bde0-ee688435e4bc,6/11/2015,Cape Town,company,"Food, drink and hospitality",1
+1434443023962-fa1e7051-c97d-44b4-a2f9-fc6afd2b4265,6/20/2015,Cape Town,sole_proprietor,Home and repair,0
+1434360271201-8a54bba3-d91b-43ed-b0e3-8ee19913c5c1,6/20/2015,Cape Town,company,Retail,0
+1434454210510-606e3e64-fd7f-4c66-94f1-88f6c1bcb0ae,6/20/2015,Cape Town,sole_proprietor,Retail,0
+1434360967106-419d2bf2-f052-4503-8406-0a5253b2dfaf,7/23/2015,Bardene,company,Online,0
+1434368421304-4666cf1d-53ed-4bfc-a405-6ef0dec291b4,6/20/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1434445056707-89357d1e-8f04-44fc-8803-45353fc29abe,6/18/2015,Cape Town,company,"Food, drink and hospitality",1
+1434430472223-e5362bbd-d96f-4522-a2d2-46cd783497ab,6/22/2015,Cape Town,company,Professional services,0
+1434375976462-4df11129-d658-4b0d-a8d6-aa91660ff037,6/22/2015,Cape Town,company,Retail,0
+1434613515560-84be6d65-9aa9-489e-8ce6-7ec7b2f5be04,6/20/2015,Cape Town,company,"Food, drink and hospitality",0
+1434520048082-5fc25a12-33ea-42a6-88bc-bc80a2b3e03f,6/20/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1434460718383-712c026e-1992-4a70-83a8-067c4f88a2ca,6/20/2015,Cape Town,sole_proprietor,Retail,0
+1434545578462-2e2b26b3-6559-401f-9f57-62508e30399b,6/20/2015,Somerset West,sole_proprietor,Retail,0
+1434546008311-1ba1d79a-b462-4843-9ec5-3c466fa327f5,6/24/2015,Cape Town,sole_proprietor,Retail,0
+1434543939887-16152053-303b-44c4-a84b-07c5b63a5e26,7/2/2015,Cape Town,sole_proprietor,Retail,0
+1434543600724-fc3eeb69-59ba-47a7-96a7-4d1de9b8beed,9/14/2015,Johannesburg,sole_proprietor,Professional services,0
+1434484264876-6a534deb-85f4-4b22-a4c2-6bc05c0ea044,6/20/2015,Cape Town,sole_proprietor,Professional services,0
+1434620487701-5ced56d2-92a6-4c0d-8214-cd487adde8e1,6/19/2015,Cape Town,company,"Food, drink and hospitality",0
+1434717215933-8dbbef73-b745-40da-a799-082ef4a9d0cb,7/10/2015,Cape Town,sole_proprietor,Retail,0
+1434729694021-714fe9df-a366-4d84-b713-9564bd748931,6/24/2015,Cape Town,company,"Food, drink and hospitality",1
+1434620935048-2fee63bb-8ad9-40e1-9bd1-9b9aae960d24,6/20/2015,Cape Town,company,"Food, drink and hospitality",0
+1435058642410-16426163-ac97-4ccb-b395-e506e848222b,6/26/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1435054678693-4806f21d-87d1-48ec-bf3c-2123379a64fb,7/29/2015,Cape Town,company,"Food, Drink & Hospitality",0
+1434699019562-8c733b2b-bcd2-45a1-b55e-42bb83ccdb99,6/20/2015,Cape Town,sole_proprietor,Retail,0
+1434704859265-1d87b189-d3f5-4f68-a03a-9d04c277332f,7/8/2015,Cape Town,trust,"Food, drink and hospitality",0
+1434974584174-c212d568-d01d-4fdf-b1e4-8c941d545c5a,6/25/2015,42 Witkoppen rd,sole_proprietor,Online,0
+1435071580924-08a58ea2-4431-4bd6-b5d5-ce7e808aee56,6/25/2015,Cape Town,company,Professional services,0
+1435233323039-b52ca369-844b-4056-88d5-9b21b59652c5,6/26/2015,Cape Town,company,Leisure and entertainment,0
+1435233323039-b52ca369-844b-4056-88d5-9b21b59652c5,6/26/2015,Cape Town,company,Travel and tourism,0
+1435496573395-3b777c08-edb1-43d6-b9f0-5958d4160960,6/30/2015,Cape Town,sole_proprietor,Home and repair,0
+1435577878589-3a524f38-032f-4491-bfa0-4a5647ccec64,7/6/2015,Cape Town,company,"Food, drink and hospitality",1
+1435327760315-67e33d0d-eb08-4877-a952-bf50a49f2c78,7/1/2015,Cape Town,sole_proprietor,Retail,0
+1435842586144-01a09373-fb7a-4376-91e1-3f8f3d74628a,7/8/2015,Pretoria,company,Professional services,0
+1435822095605-ae411ede-0c51-4506-a012-e495f71eebd0,7/6/2015,Cape Town,sole_proprietor,Retail,0
+1435755137988-bea39416-203c-4c8f-8b32-727dcd348716,8/13/2015,Johannesburg,company,Retail,0
+1435847483862-1c8c9c4c-da48-43a6-81b2-cee8f04f5ecb,7/4/2015,Cape Town,sole_proprietor,Home and repair,0
+1435911353722-b5764ca6-94ec-4b5f-996a-8b807b0044b1,7/25/2015,Johannesburg,company,Home and repair,0
+1435913796924-feb4111d-f604-4df4-91ae-4bfd9d118dad,7/3/2015,Hopefield,sole_proprietor,"Food, drink and hospitality",0
+1435855530343-b0bb6120-f554-44de-8df9-26686c6da704,7/9/2015,Cape Town,company,Travel and tourism,0
+1435909955536-5d254284-e56a-4d99-b24f-5bcd91bb0481,7/6/2015,Johannesburg,company,Retail,0
+1435981293834-450dd4c3-9d26-4568-b04c-f0615e2db853,7/8/2015,7 Weltevreden Street,company,"Food, drink and hospitality",1
+1436257213706-7546a0d1-5b56-478e-80fa-ae77d771830e,7/9/2015,Johannesburg,practice,"Healthcare, beauty and fitness",0
+1436123092750-68fb87cc-d43b-4468-9137-2841db30f9c6,7/9/2015,Cape Town,company,"Food, drink and hospitality",1
+1436133508444-8d874705-6448-4d8d-88e0-5b0f8f4c321c,8/18/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",1
+1436174426814-1879c870-9834-4b56-8a90-5024383cbe60,7/16/2015,Cape Town,sole_proprietor,Home and repair,0
+1436270327377-f8d449ef-2daa-4cd7-9ca4-084c53ed3b36,7/8/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1436342525289-bb27d666-88f1-4d9e-b172-7b0f275916d8,9/9/2015,Cape Town,company,Home and repair,0
+1436169266315-251b49fb-3deb-4093-8c29-23d5397e8fc3,10/6/2015,Cape Town,company,Leisure and entertainment,0
+1436798187697-82a8c508-1765-4917-b1f1-22676b7d56f7,7/15/2015,Johannesburg,company,Leisure and entertainment,1
+1436518684230-873fa0ec-1f0c-4bb7-885b-d56623fecaa9,7/18/2015,Stellenbosch,company,"Food, drink and hospitality",0
+1436787149747-9fa1a3fc-83f7-4807-af0c-47b30d7ab6dc,7/14/2015,Cape Town,company,Leisure and entertainment,0
+1436787149747-9fa1a3fc-83f7-4807-af0c-47b30d7ab6dc,7/14/2015,Cape Town,company,Travel and tourism,0
+1436444666943-ec905a37-3efb-40cc-bc58-57c1c29fcd25,7/24/2015,Cape Town,sole_proprietor,Leisure and entertainment,0
+1436859496503-15e904bd-600e-4e37-aecf-213acc1d1933,7/20/2015,Cape Town,sole_proprietor,"Food, Drink & Hospitality",1
+1437039197014-88ed4a9c-c693-4843-958d-1b133bef6af2,7/29/2015,Langebaan,sole_proprietor,"Food, drink and hospitality",0
+1436944694688-c210a40e-c9e1-4c6a-8c51-d412073416ee,8/1/2015,Pretoria,sole_proprietor,Retail,0
+1436873941486-04e373aa-61eb-4215-8bb8-4aa335339e5d,7/16/2015,Cape Town,company,Professional services,0
+1436871471054-dc917683-3c39-4adc-bb52-6c1107515c8f,7/27/2015,Brackenfell,sole_proprietor,"Healthcare, beauty and fitness",0
+1436973641249-2829fbf9-597e-4b8e-a114-807cfe531d18,7/24/2015,Cape Town,sole_proprietor,Retail,0
+1436882887795-63ca1223-bbf2-455e-9693-1a2ae62a7376,7/16/2015,Cape Town,company,Online,0
+1437141143004-8db83a8a-036e-4cfe-8cb4-8e3fc1c6b982,10/12/2015,Stellenbosch,sole_proprietor,Home and repair,0
+1437117510726-e85b3f69-3e2a-4567-9ae4-85b4680112bc,7/17/2015,Cape Town,company,"Food, drink and hospitality",0
+1437115894313-24e528ff-d26e-4eac-8c32-fd0f0610d2b2,7/27/2015,Cape Town,company,Transportation,0
+1437142875388-392dc72a-128a-46d3-b28f-1c552c4a6dbf,7/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1437123173301-25fd91f9-b629-45a3-a660-77ea132d88d6,8/5/2015,Hoedspruit,sole_proprietor,"Food, drink and hospitality",0
+1437391804586-4f41ca2a-4d5b-49c3-ba0c-5cb0978677af,7/23/2015,Cape Town,company,Home and repair,0
+1437156080254-14535351-9c27-41ad-8828-0157621b1031,7/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1437409345731-dd6988a6-d7ac-4039-bbd3-3e03bc983c4d,7/22/2015,Cape Town,company,Retail,0
+1437467024909-7fc5eb74-4009-4eca-a351-6528d2d2ca80,7/29/2015,Durban,sole_proprietor,"Food, drink and hospitality",0
+1437402166713-3356d098-bc64-4c49-abba-377e0b2c4057,7/25/2015,Cape Town,sole_proprietor,Retail,0
+1437399306333-5696d4dc-8aaf-4e68-bd96-b1698a69c295,7/26/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1437474186465-46f782cc-5823-45e8-9db6-fc301ce56e4b,7/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1437481098348-a957f7af-a54a-46e5-b18c-844d0ef8c91a,7/22/2015,Cape Town,company,"Food, drink and hospitality",1
+1437485131775-a3a4d999-2be2-4508-a6e0-949a3c2b7c45,7/26/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1437484508844-365155b3-cae3-417c-9e6f-68e8306eb2c2,7/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1437484270859-12515868-beaa-4c81-a217-553bb46c8695,8/4/2015,Cape Town,sole_proprietor,Retail,0
+1437716143850-f5cee96b-c3fb-4256-8674-e6a22409fb5f,8/7/2015,Pretoria,company,"Food, drink and hospitality",1
+1437485632987-9f29e630-1928-4e29-8da3-bf6de4459652,9/10/2015,Durban,practice,"Healthcare, beauty and fitness",0
+1437645396340-0f124fc8-a135-4d76-8739-b4f6cbb366e6,7/23/2015,Somerset West,company,"Food, drink and hospitality",0
+1437643308060-1bf64167-bbbb-4783-a59e-a7c620dee812,7/26/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1437723914988-e8338752-5f7b-4e58-8c17-2fb83034a851,7/30/2015,Bloemfontein,trust,Retail,0
+1437736135329-12fb1c40-b400-4633-bef9-13a82d9c1412,8/27/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1437719148364-958f4882-78ce-479e-906c-91ac85a4b761,8/1/2015,Johannesburg,company,"Food, drink and hospitality",0
+1438061656642-9c7a196f-a509-4739-9f55-2da643b9d778,9/3/2015,Cape Town,company,"Food, drink and hospitality",0
+1438083632595-90326d6d-fdfc-4a8a-856f-233e749b91f8,8/8/2015,Cape Town,company,Online,0
+1438074010387-6cff1d1f-1e18-4ab1-9a59-2194bde99a9b,8/6/2015,Vanderbijlpark,sole_proprietor,"Food, drink and hospitality",0
+1438076829774-81b1b1c4-f535-4d92-8342-ce1fc3a1f8be,7/31/2015,Cape Town,company,"Food, drink and hospitality",1
+1438064656962-f22afa1f-57e6-453b-875f-99c85b3c6eab,8/2/2015,Centurion,company,Retail,0
+1438085632517-50e0fdd0-49cf-4137-86c7-ebd634092ad0,8/3/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1438092471886-3b40fb9d-034f-4448-802f-923eb7b41457,8/7/2015,Cape Town,sole_proprietor,Home and repair,0
+1438168867917-06e40d76-a345-49b2-9a26-5c4b44aaf8c2,8/4/2015,CAPE TOWN,sole_proprietor,Leisure and entertainment,0
+1438096986137-8b9e319a-adfc-4c43-b7d7-93193825fe4c,8/1/2015,Johannesburg,sole_proprietor,"Food, drink and hospitality",0
+1438181419711-03fbca0c-762b-44e5-9137-f2f9bd55fd5f,8/5/2015,Cape Town,company,Home and repair,0
+1438089547854-f1529357-1835-4c0e-967b-f5fbf9152c8c,8/11/2015,George,company,"Food, drink and hospitality",0
+1438186551712-811d3ff2-d30c-4d4d-b69c-7fe63e59e0ed,8/1/2015,Arlington,company,"Food, drink and hospitality",0
+1438238800673-4e7fdf80-88ac-4393-a2d2-0c0facae5f00,11/9/2015,Hermanus,trust,Retail,0
+1438624228149-54c997ef-5b98-4700-b3e7-44e14a39a048,8/15/2015,Gordon's Bay,company,"Food, drink and hospitality",0
+1438308886434-a0442ef9-c326-4281-a637-1139ed6666d8,10/8/2015,Somerset West,company,"Food, drink and hospitality",0
+1438356963246-7ddd1957-a034-4626-be79-bb7487883771,8/4/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1438765852580-99f39481-8602-49a4-92b3-f083d7a1fcce,8/31/2015,Rustenburg,sole_proprietor,"Healthcare, beauty and fitness",0
+1438888794605-827c663b-1eb3-403f-a3e4-c1b00f5315de,8/21/2015,Cape Town,company,"Food, drink and hospitality",1
+1438870476724-738b8283-72c5-4a07-b822-b480f4352b8a,8/26/2015,Malelane,sole_proprietor,Travel and tourism,0
+1438876972619-e6f07eaa-564f-461c-97aa-4d703fd82892,8/18/2015,Cape Town,company,"Food, drink and hospitality",0
+1438693800708-fbe799a9-ed1e-4724-92d1-54334a4c211d,8/11/2015,Cape Town,sole_proprietor,Retail,0
+1438694933221-530647e0-1975-4d0e-a1fc-fc980f87bff9,8/8/2015,Cape Town,sole_proprietor,Retail,0
+1438707915899-1f3b8182-3709-4a70-af58-7ab520676c8f,8/7/2015,Johannesburg,company,Retail,0
+1438693602074-62ec11a1-fbfd-4d44-ac75-3b6b4301108c,8/14/2015,Cape Town,company,Home and repair,0
+1439100629097-7f6480a3-f813-424c-9782-13dfcfc8a8ee,8/16/2015,Cape Town,sole_proprietor,Retail,0
+1438953754234-b1ccd9ac-a781-4dae-b017-89f960a2342e,11/13/2015,Cape Town,company,Travel and tourism,0
+1439293617492-b42c6c97-42f0-4c58-9870-a759cb5d68b3,8/13/2015,Cape Town,company,"Food, drink and hospitality",1
+1439414064617-3df96654-3492-4deb-8ed4-9c276c4403b5,8/13/2015,Kuilsriver,company,Retail,0
+1439399923191-b8e25ffd-2c52-4a87-ac9d-b7f06273b6a1,8/18/2015,Hermanus,sole_proprietor,Professional services,0
+1439287689362-01c697dd-ae42-4112-b076-ea6adca803d6,8/15/2015,Cape Town,trust,Leisure and entertainment,0
+1443173830686-182c32d4-9a13-44ec-9610-8bccec45a8e4,9/26/2015,Hermanus,company,"Food, drink and hospitality",0
+1443099583134-3ada94ec-7caf-49d2-ac16-09b10906c183,9/28/2015,De Aar,company,Professional services,0
+1443183332413-197d96af-9442-4eb4-b602-10df4906acb6,10/7/2015,Cape Town,company,"Food, drink and hospitality",1
+1443424293067-1d78cb62-f2a4-4d90-8682-bd6eb8b34d50,10/22/2015,Pretoria,company,Home and repair,0
+1443421573352-2cff7317-fcd2-4ebd-8876-5f9d49cad70f,10/7/2015,Welkom,sole_proprietor,Travel and tourism,0
+1443443143895-d23c7c27-416b-41eb-9d6d-2f6b409a22c4,10/2/2015,Cape Town,company,"Food, drink and hospitality",1
+1428667378150-f5bdfa0e-8aaf-46db-8d54-1d581749d235,4/12/2015,Cape Town,company,Retail,0
+1429166837558-a6039b64-d1fc-4171-8149-01dfcb3b4ecf,4/17/2015,Cape Town,company,"Food, drink and hospitality",1
+1429184568757-51a31acb-48a2-4bb0-9fbb-c4d25269baed,4/20/2015,Durbanville,company,"Food, drink and hospitality",1
+1429185029932-e8f0323a-adb6-4e4f-b86e-f29fb25e27a2,5/1/2015,Stellenbosch,sole_proprietor,Retail,0
+1429182944576-1262abfa-2d63-4d8e-a566-a1aa7fc09200,4/18/2015,Cape Town,company,"Food, drink and hospitality",0
+1429013064651-8f06debe-184e-43f5-8d7d-d872eb72ac0c,4/24/2015,Johannesburg,company,Online,0
+1429030235172-cd21ab3c-c47c-4f9a-b1fa-683c8ec58d55,4/23/2015,Johannesburg,company,"Food, drink and hospitality",1
+1429261274089-14e97b77-28be-46a5-bf33-cc2525c1dd5b,5/8/2015,Cape Town,company,"Food, drink and hospitality",0
+1429188663924-25474853-52e5-40c2-aab3-9fd98d415f9a,4/30/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",1
+1429708753368-f9afe2c6-9f20-43a7-b97a-dc2a2df6359d,4/28/2015,Cape Town,company,"Food, drink and hospitality",0
+1429792147101-80171413-592f-43c7-b6d1-fe83ed97d812,4/30/2015,Cape Town,company,"Food, drink and hospitality",1
+1429618748156-d0bc88d6-9dab-4606-83ea-ae4d4cee0a80,5/6/2015,Cape Town,sole_proprietor,Professional services,0
+1429541588522-cdad5bcd-fc17-42b3-9a4b-74a2f17f2b80,4/23/2015,Cape Town,company,"Food, drink and hospitality",1
+1429863923708-7d714c30-81e1-4188-807f-78adba319d6b,6/10/2015,Cape Town,sole_proprietor,Home and repair,1
+1429863923708-7d714c30-81e1-4188-807f-78adba319d6b,6/10/2015,Cape Town,sole_proprietor,Home and repair,1
+1429796836863-fe9199fa-52e9-4fe6-98b3-45af34e30a77,5/5/2015,Cape Town,company,"Food, drink and hospitality",0
+1429608813130-60b7088e-00f9-4474-b6d7-0df2db79358f,6/19/2015,Durbanville,company,Retail,0
+1429528623574-3dc08273-77b9-4f6a-923e-33f57a8eaff1,4/23/2015,Cape Town,company,"Food, drink and hospitality",1
+1429614893466-d13b3d3c-1bbb-4b1a-9ed4-bc5f3a8dcc85,5/1/2015,Cape Town,company,Online,0
+1430750485620-1094dd8d-4ae3-4e32-866a-12cce857eb97,5/8/2015,Johannesburg,company,Professional services,0
+1430387520759-99390142-9a4e-4fc1-a2c6-741e095c4e4e,5/1/2015,Cape Town,company,"Food, drink and hospitality",1
+1430139175969-30b9e804-dadd-4d1f-9d66-e2426f8754af,5/4/2015,Bellville,company,Retail,0
+1430319275623-d735b33c-158b-4df8-8f95-1a3a40a5f215,5/19/2015,Johannesburg,sole_proprietor,Retail,0
+1430755038080-8ff29c3e-c424-4bdf-9fd9-78b75262bb3a,5/18/2015,Johannesburg,company,"Healthcare, beauty and fitness",0
+1430395991314-744d30ea-77ea-4302-8661-938a5ecfb864,5/5/2015,Cape Town,company,"Food, drink and hospitality",1
+1430756098843-ff81ff72-f4fc-44c7-81fb-6cc042b42853,5/8/2015,Pretoria,company,Home and repair,0
+1430896961956-6d3d2ff3-438b-4ac5-a639-541a565c9bef,5/11/2015,Somerset West,sole_proprietor,"Food, drink and hospitality",0
+1430809857518-66e0ea18-3fce-430d-9ce0-f176019e2a75,5/13/2015,Springbok,sole_proprietor,Retail,0
+1431331627311-e7c862a1-4c5d-426a-b845-b2626842f291,5/11/2015,Cape Town,company,"Food, drink and hospitality",1
+1431451243203-ec615ac5-a5aa-45e9-ac04-46ef942eaf23,6/3/2015,Kempton Park,sole_proprietor,Professional services,0
+1431433133107-089d14c3-5435-4b33-9973-70e2c0ff95bc,5/21/2015,Hermanus,company,"Food, drink and hospitality",1
+1431427935079-d70f51bb-9071-4386-be3f-1cf0cdfc460b,5/14/2015,Cape Town,company,"Food, drink and hospitality",1
+1431093231410-e6699cca-8311-4c4c-b4e7-c12bea86a8c0,5/29/2015,Cape Town,company,Retail,0
+1431580812739-5f4347be-a13a-4a11-b221-0a0547d44dc4,5/19/2015,Cape Town,sole_proprietor,Home and repair,0
+1431687407677-b20d0334-3f89-40d7-b75e-f9fda4d81384,5/21/2015,Cape Town,company,"Food, drink and hospitality",0
+1431608004733-c6a1e6f1-855b-4469-9201-af72193af1d9,6/2/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1431438564904-26265e66-8bd5-467a-b40a-91069db8a40d,8/11/2015,Somerset West,company,Travel and tourism,0
+1431941914046-80b8ffa3-4bca-4bab-9458-7547b79255d6,5/21/2015,Woodstock,company,Retail,0
+1432110994313-37d0aba9-6ab6-4aab-baf7-bc835536d896,5/20/2015,Pretoria,company,Retail,0
+1432046276961-fd49c372-8019-4401-8663-fc8beaeda592,5/21/2015,Johannesburg,company,"Food, drink and hospitality",1
+1432125276864-c98aa0b8-f7d1-488c-a28a-6e80e090d95c,5/29/2015,Cape Town,company,"Food, drink and hospitality",1
+1443424086269-1cff67a1-1d94-4e16-9135-15b007748548,9/29/2015,Cape Town,company,"Food, drink and hospitality",1
+1443447633222-fa2fcc0d-8ad4-40da-a648-9b9f73456154,10/8/2015,Cape Town,company,"Food, drink and hospitality",0
+1443447437266-291dcb18-8e5a-4ebe-95ea-18f3bc2a44d2,10/1/2015,Cape Town,company,"Food, drink and hospitality",0
+1443446584467-67d5fccd-8ee6-4861-985e-559d08b4143a,10/22/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1443446806147-d258ebef-e4e9-40e9-a05d-55e63de220a3,10/23/2015,Durban,sole_proprietor,"Food, drink and hospitality",0
+1443470576720-6790e6c3-97fe-493f-8dbc-3bd77d9b8b8a,10/2/2015,Pretoria,company,Leisure and entertainment,0
+1443512333294-7f1fa3ed-04a4-4a9b-9f21-07fed3530120,10/1/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1443516418079-c9d757a4-9875-4435-a7de-a137f858cdae,10/2/2015,Potchefstroom,sole_proprietor,"Healthcare, beauty and fitness",0
+1443507623766-d7a7dd32-ca88-45ac-8533-bca483b556ca,10/6/2015,Cape Town,company,"Food, drink and hospitality",1
+1443535235043-f31bbecd-84ca-4269-9e2a-79d78db1dcb3,10/1/2015,Cape Town,company,"Food, drink and hospitality",1
+1443605336171-b35fa195-a9f9-470d-9b44-33af230c1eea,11/3/2015,Pretoria,sole_proprietor,Retail,0
+1443597436794-a4001dd2-48f6-4319-a3a7-48f0c1e51b4d,10/6/2015,Cape Town,sole_proprietor,Travel and tourism,0
+1443614068863-0ca0719f-93bf-43f4-99e2-04bd57095c77,10/2/2015,Johannesburg,sole_proprietor,Leisure and entertainment,0
+1443614068863-0ca0719f-93bf-43f4-99e2-04bd57095c77,10/2/2015,Johannesburg,sole_proprietor,Travel and tourism,0
+1443600422372-c37bcb17-d34a-40e4-ba16-e05bc2fb2deb,10/7/2015,Darling,sole_proprietor,"Healthcare, beauty and fitness",0
+1443680438637-d90a58d5-0cea-4ac7-b078-83143761fe03,10/13/2015,Cape Town,company,Retail,0
+1443627125268-710ca2ab-f569-482a-a612-1ede7cb0dbb2,10/1/2015,Cape Town,company,Leisure and entertainment,0
+1443615168337-fce2146f-d2b5-4876-85e1-85b376a97dd1,10/9/2015,Port Elizabeth,sole_proprietor,Travel and tourism,0
+1443768758627-da1fa0b9-b883-4e5b-b1d5-180e50eabf74,10/2/2015,Johannesburg,company,"Food, drink and hospitality",1
+1443878157642-93a1fcef-9a47-4ee7-9e2c-175f3c9ed11c,10/12/2015,Klerksdorp,sole_proprietor,"Healthcare, beauty and fitness",0
+1444035671133-388b6deb-b52b-4b7c-a97c-c7fd507b5e0b,10/8/2015,Johannesburg,sole_proprietor,Retail,0
+1443974059694-234dadef-588d-4d0a-93ce-f3c4e083e1b1,10/7/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1443980319197-1c9bca03-74e6-4944-bf62-279089ca4730,10/6/2015,Johannesburg,sole_proprietor,Retail,0
+1444020322610-f1ffd2e9-555f-44f7-9603-040ff77cb498,10/7/2015,Krugersdorp,sole_proprietor,Leisure and entertainment,0
+1444041454126-bc7b1ae1-01d1-47f6-9272-acd6652a3216,10/7/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1444105051047-fd848e52-2807-4d30-9417-4b91eb5c6275,10/7/2015,Cape Town,company,Online,0
+1444119648293-07bbe137-dc46-42bd-974a-4d412a76b74d,10/9/2015,Cape Town,sole_proprietor,Retail,0
+1444061736331-98d2ce53-caad-4ca1-a25a-9c880acffcc8,10/15/2015,Cape Town,sole_proprietor,Retail,0
+1444200487389-ba2c5b2b-e946-4af3-8fe5-19cd8b347f16,10/13/2015,Cape Town,company,"Food, drink and hospitality",0
+1444143359206-9885fbc0-9101-4ec4-b9cf-90de79e2d4ec,11/3/2015,Johannesburg,company,Online,0
+1444148731712-c4b4b721-47ea-4344-883c-f78b6065a55f,10/9/2015,Johannesburg,company,"Food, drink and hospitality",0
+1444206747604-1abf5d3e-efc3-4361-8c0a-9e8d714239b8,10/15/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1444217285630-48dbbbb2-4f77-4356-80b3-ae45c63ac9f8,11/26/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1444289097749-11670c2e-b06d-4939-8912-5089228ca263,10/20/2015,Cape Town,company,Retail,0
+1444293585366-da51074e-2313-426d-90b4-1dbe9bab36bb,10/9/2015,Cape Town,company,Home and repair,0
+1444389907811-c344ebab-61fc-4716-ba6a-c75568ce5825,10/9/2015,Mooi River,sole_proprietor,"Food, drink and hospitality",0
+1444336401938-0b05b521-57f7-4793-a82d-0604734da9e3,10/27/2015,Cape Town,sole_proprietor,Leisure and entertainment,0
+1444396413636-8ee4e1ff-7ba5-4f5e-8837-c924f692256c,10/9/2015,Cape Town,company,Retail,0
+1444475024287-25bd829b-a0b3-4dfc-8701-5b8d642f260f,10/10/2015,Cape Town,company,"Food, drink and hospitality",0
+1444457118526-f907c208-2aaa-4327-81a7-7eb94ab89b81,10/16/2015,Cape Town,company,"Food, drink and hospitality",0
+1444640278681-657b87fa-93b2-4314-8da0-79691a84daf0,10/22/2015,Cape Town,company,"Food, drink and hospitality",0
+1444631878220-30320826-2647-470a-aff6-623f12955ffc,10/13/2015,Cape Town,company,"Food, drink and hospitality",1
+1444723351666-f3bd0e37-d9c5-455c-8f1a-185f6003bdc0,10/20/2015,Cape Town,company,"Food, drink and hospitality",1
+1444647734732-69be6960-8618-4508-9bd7-2dbe84ced5a6,11/18/2015,Johannesburg,company,Online,0
+1444732497926-ba348a15-96ca-4c0e-a527-2bea3d35d8a6,10/13/2015,Cape Town,company,Retail,0
+1444646591248-0297910e-23d0-403e-9133-1e4b5650615d,11/23/2015,Johannesburg,sole_proprietor,Professional services,0
+1444814739428-c4bf4cf3-1165-49ee-b1bf-3602eab9277b,10/15/2015,Cape Town,company,Online,0
+1444795430965-e2f04ac7-d5f8-47a8-9d3a-4c1cb31432cc,12/16/2015,Johannesburg,company,Retail,0
+1444809450487-88c6e4e6-168d-4802-b8ee-402957f4a9bb,10/26/2015,Durban,sole_proprietor,"Healthcare, beauty and fitness",0
+1444817679223-4ede4c55-5da3-4aee-9715-652b7ac98f59,10/19/2015,Durban,sole_proprietor,"Healthcare, beauty and fitness",0
+1444817934704-7275fb46-e0a6-4a24-8f62-9c0bc3ccc6b1,10/16/2015,Cape Town,company,Retail,0
+1444820117259-9eae8b2c-bf5f-4e11-ace4-f7ea21cb63f5,10/22/2015,Cape Town,company,Home and repair,0
+1444914521075-e4d72474-3a82-4dbc-9d2a-cc34706928b2,10/24/2015,Durban,sole_proprietor,"Food, drink and hospitality",0
+1444904700118-5bda5995-4fea-41fe-9bb6-942c5081fdf4,11/4/2015,Stellenbosch,sole_proprietor,Retail,0
+1444907992469-80e2880f-c9c0-4c69-b05c-d0720fab8997,10/20/2015,Pretoria,company,"Food, drink and hospitality",0
+1444931111667-625fe2a9-0ba3-499f-9d44-fa79986b4a51,10/30/2015,George,company,Retail,0
+1444931774387-989a6926-5693-49e9-be93-a50bcabce914,11/1/2015,Hout Bay,company,Professional services,0
+1444918074997-27d4251f-81f8-4096-9150-fc796035cc94,10/19/2015,Cape Town,company,Professional services,0
+1444974750302-8c1d1054-18c4-4ddd-8edf-1f9572702ec0,10/20/2015,Cape Town,company,Travel and tourism,0
+1444926750482-856adf87-35ec-4285-8f4d-33c2ebc5ae52,10/19/2015,,company,Home and repair,0
+1444976393870-0a898070-6802-4e0d-9dbd-16b2e03e3dd7,10/29/2015,Cape Town,company,Retail,0
+1444938331448-127afee9-aa6d-4aae-a4c0-3c90a384a0a3,11/4/2015,Pretoria,company,Retail,0
+1444994338179-f4dcc5c0-e69d-414b-a78c-681ce9c6ed11,10/20/2015,Cape Town,sole_proprietor,Retail,0
+1444994994190-b8de9f11-75dd-4f3f-ad79-11beaec96531,10/20/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1445058600577-88d85f99-8ddb-4339-adbe-733e4070b096,10/23/2015,Kleinmond,company,Professional services,0
+1445260251942-51e33ee3-732c-4949-a557-31de1f24ae2f,10/23/2015,Cape Town,sole_proprietor,Retail,0
+1445065965001-6b85f486-7ae3-47eb-98d2-c8e7d5e6dda1,10/21/2015,Piet Retief,sole_proprietor,Home and repair,0
+1445243509884-108ba251-ff14-4ef4-9f3e-562b1e113ba6,10/21/2015,Cape Town,sole_proprietor,Retail,0
+1445257057139-6ebced96-b8ae-4cde-8cd6-34e26283300d,10/28/2015,Stellenbosch,sole_proprietor,Professional services,0
+1445340373046-34820a74-c7b4-472b-9033-b0223907bafe,10/26/2015,Franschhoek,company,"Food, drink and hospitality",0
+1445323243016-f5e012fa-18a5-4b9e-94dd-dcb52aa3dc9b,11/3/2015,Johannesburg,company,Retail,0
+1445334912231-b56263e3-b410-4ef5-a95f-439e630f1ab9,10/23/2015,Johannesburg,company,"Food, drink and hospitality",0
+1445332966967-6f8f3c2f-25cc-454c-a807-e48c6a0e0d7a,10/22/2015,Pretoria,company,Professional services,0
+1445433300243-fcba8dc6-cc3e-4967-949b-35afdcdf46d1,10/25/2015,Cape Town,company,Retail,0
+1445370571847-3ce9311a-b2b3-4c60-8a87-a9ea0d5597b8,10/27/2015,Johannesburg,company,"Healthcare, beauty and fitness",0
+1445424513021-d5d9457b-8d5f-4b42-9f85-68fbf08f7d9d,10/24/2015,Johannesburg,trust,Personal services,0
+1445446373500-f4e4f7c7-3d5e-4359-8218-e4e2e87bfc4a,10/23/2015,Cape Town,company,"Food, drink and hospitality",0
+1445425096330-b7cdda38-dcdd-4325-ae62-ddc1857e96bf,11/10/2015,Pietermaritzburg,company,"Food, drink and hospitality",1
+1445433061976-1345f5da-3bf0-493d-99e0-3dd2af9973f1,10/28/2015,Simon's Town,sole_proprietor,Travel and tourism,0
+1445510235980-ffccd474-b134-4223-a5ff-24090407f7aa,11/12/2015,Brackenfell,company,Professional services,0
+1445519113350-d6d800f0-3d01-4dea-8957-522a8d1bd42b,10/26/2015,Durban,sole_proprietor,"Food, drink and hospitality",0
+1445514976036-4f817070-4fcf-440f-834b-6e6e3117d2fc,11/11/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1445519872248-aa09a168-1bce-467f-9ae7-5e7f046805c3,10/27/2015,Sandton,company,Professional services,0
+1445505307590-44aa8e47-0643-4fb3-9d0d-19bb7243a887,12/13/2015,Cape Town,company,Leisure and entertainment,0
+1445601892140-297f14b9-3036-4998-b2ab-edd484745594,10/30/2015,Cape Town,company,Retail,0
+1445584864194-5bbc33f0-c634-409c-80fa-3cf86c1f3bb4,10/30/2015,Pietermaritzburg,company,Professional services,0
+1445601852943-eae23a62-f405-4a1c-855e-dd93029c519d,10/30/2015,Cape Town,sole_proprietor,Retail,0
+1445611209651-b5d0dbb7-fc40-4247-8807-908faf17b48a,10/30/2015,Cape Town,sole_proprietor,Retail,0
+1445604677857-50ad84cc-9644-49f9-aa1d-4db1d63a0497,10/29/2015,Cape Town,practice,"Healthcare, beauty and fitness",0
+1445669710305-6faed014-c94e-40ed-add9-416cbb0cb6d3,11/2/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1445863250251-d16d9dd3-f476-4642-a7ac-1d5d64c20a57,11/1/2015,Cape Town,sole_proprietor,Retail,0
+1445871056073-b296fb26-3a8c-4d40-a938-b777aa0de2e7,11/19/2015,Cape Town,company,Travel and tourism,1
+1445865256705-087de971-0748-4b0b-a736-0894eadc0a13,10/29/2015,Durban,company,"Food, drink and hospitality",1
+1445929689003-2aa3c7f3-c2b3-453e-90f2-36bcc555e30c,10/29/2015,Parow,company,Travel and tourism,0
+1445888950341-735ab33a-f057-4a35-b5ca-9c0fede6f78a,10/29/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1445926901267-eb5a002f-6373-4359-a3de-53af25e92e70,11/6/2015,Hermanus,company,Travel and tourism,0
+1445883101287-e2135bb1-951c-470f-9a81-5640f26203ab,10/30/2015,Tzaneen,company,Retail,0
+1445930138592-ea8d3ce3-0909-4cb3-a81f-a324d8e03765,11/10/2015,Alberton,sole_proprietor,Home and repair,0
+1445923793040-b26c0273-5596-4c5c-9b8a-519ada3cd032,10/30/2015,Cape Town,company,Retail,0
+1445953277080-c06c6482-afbc-4b0d-82eb-4de7bce8dc29,11/24/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1445950324166-3658b9b3-d2d2-488c-aca8-153f3a7734d2,11/14/2015,Nelspruit,sole_proprietor,Home and repair,0
+1445950324166-3658b9b3-d2d2-488c-aca8-153f3a7734d2,11/14/2015,Nelspruit,sole_proprietor,Professional services,0
+1445971232847-865bb1d9-e09f-4963-8a2d-0eb54ba5efb1,11/6/2015,Wolseley,sole_proprietor,Retail,0
+1445953353324-0364173b-db0c-409b-89f5-c95f97142c65,11/4/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1446022440912-0b977311-c342-451c-8ffa-757f23c241fb,10/30/2015,Johannesburg,sole_proprietor,Retail,0
+1446046504452-f243c822-7728-4ae3-9215-10081bd0deec,11/4/2015,Johannesburg,company,"Food, drink and hospitality",0
+1446035831793-9d1ecb5d-c5d8-4542-becd-e78a9266d3a4,11/1/2015,Randburg,company,Home and repair,0
+1446035831793-9d1ecb5d-c5d8-4542-becd-e78a9266d3a4,11/1/2015,Randburg,company,Professional services,0
+1446057971744-32996bce-223e-4dd8-9d0f-6fd3e831f32e,11/18/2015,Devon,sole_proprietor,Home and repair,0
+1446029165053-f9bf87e8-d408-4735-9a53-30c4cc5c0027,11/5/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1446199911133-ffd463a3-9864-42c1-97a1-6d85811ac7bf,11/3/2015,Cape Town,sole_proprietor,Retail,0
+1446202889001-295b6b25-0abc-4377-865e-ceedea4bee84,11/4/2015,Durban,sole_proprietor,Retail,0
+1446227699114-35ed3f9a-2a23-4786-b547-dc3cbeb53692,11/4/2015,Pretoria,sole_proprietor,Home and repair,0
+1446227699114-35ed3f9a-2a23-4786-b547-dc3cbeb53692,11/4/2015,Pretoria,sole_proprietor,Professional services,0
+1446213494515-8d932251-a491-4290-9626-1009678fdede,11/5/2015,Cape Town,practice,"Healthcare, beauty and fitness",0
+1446368004645-75c026ea-28b5-413e-b826-679fef769abf,11/13/2015,Cape Town,company,Home and repair,0
+1446454221543-91174f41-5d67-4407-8d6a-f6c148bca79a,11/9/2015,Boksburg,sole_proprietor,Home and repair,0
+1446452144204-2cdf8bd3-c3e4-43cf-bdff-d3ec168e763c,11/4/2015,Cape Town,company,Home and repair,0
+1446449908202-83fc45a7-42d5-4903-ab43-19535bc8124e,11/4/2015,Johannesburg,sole_proprietor,Retail,0
+1446472415656-44c35dce-e20d-464a-bc11-7243fddf3b81,11/9/2015,Cape Town,company,"Food, drink and hospitality",1
+1446488239499-1c9927ec-67a9-42e3-ade3-5a4993982e25,11/6/2015,Johannesburg,practice,Retail,0
+1446466486922-66e843da-0491-405e-94cd-d1bfb4661c88,11/5/2015,Johannesburg,sole_proprietor,Home and repair,0
+1446532874273-bbbe7ff6-54db-4ee5-aa30-8dc789a85f64,11/13/2015,Franschhoek,company,"Food, drink and hospitality",0
+1446531027064-15b2fd83-570d-41ca-8555-a2205cda20e4,11/5/2015,Stellenbosch,sole_proprietor,"Food, drink and hospitality",0
+1446571589934-2702e93b-e657-4120-bfdb-543f3b46999d,11/5/2015,,sole_proprietor,Retail,0
+1446561553507-34c94357-d8dd-4bd0-aeb8-f1d2a2d1062d,11/7/2015,Cape Town,company,"Food, drink and hospitality",0
+1446624992843-de0f7df3-cd6a-49cd-8bc7-f68fa11d5eec,11/10/2015,Witbank,sole_proprietor,Leisure and entertainment,0
+1446625188741-cf8d6670-8281-4214-a402-e7fe3eeaef78,11/5/2015,Johannesburg,company,"Healthcare, beauty and fitness",0
+1446626352507-eac7dcb3-6188-4622-8643-3b2e99c931b2,11/9/2015,Springbok,sole_proprietor,Retail,0
+1446736315653-37656e0d-f5dc-4d69-bef2-6dd1ed5a61ec,11/19/2015,Johannesburg,company,Online,0
+1446724574263-62202b46-5341-4d52-8825-453d846313a1,11/13/2015,Cape Town,company,Online,0
+1446720162513-27a5f622-458c-40f5-b2a0-7c24f44a3c21,11/18/2015,Scottburgh,sole_proprietor,Home and repair,0
+1446739525834-7e983b0b-3a2d-4e47-a4da-31207053c461,11/13/2015,Cape Town,company,"Food, drink and hospitality",0
+1446746974931-e7704360-12e6-4c88-ba97-d5af28d7d099,11/11/2015,Cape Town,sole_proprietor,Retail,0
+1446798131336-b0a91763-990e-4752-ae94-63bcaff40cb8,11/6/2015,Cape Town,sole_proprietor,Home and repair,0
+1446810663652-56b276a8-6d7c-462f-ac47-e11e2cc62345,11/9/2015,Vanderbijlpark,sole_proprietor,Online,0
+1446798271008-e495e310-f9eb-4ce2-9642-03cbef8de5f3,11/11/2015,Johannesburg,company,Home and repair,0
+1446798271008-e495e310-f9eb-4ce2-9642-03cbef8de5f3,11/11/2015,Johannesburg,company,Professional services,0
+1446875238475-1262f7ed-40c0-4f2f-ad0a-dacf245b46a3,12/22/2015,Pretoria,company,Home and repair,0
+1446999126834-941940df-e88c-4623-9c0d-ee38b2694b82,11/24/2015,Cape Town,sole_proprietor,Retail,0
+1447055712399-f60367f5-561e-4cb7-bdb4-15ac98e1eb70,11/15/2015,Cape Town,company,Leisure and entertainment,0
+1447067872243-70bfb969-1c2e-4bfd-8512-745623e5dea7,11/13/2015,Cape Town,company,Retail,0
+1447045631604-f6f0992a-77d5-4470-ab8a-953b8200c380,11/19/2015,Pretoria,company,Professional services,0
+1447062998873-677ad2b2-514c-4861-9bab-3ae84b93c1ad,11/25/2015,Johannesburg,company,Home and repair,0
+1447081471978-2452b326-da78-46bf-8d81-f3954bd7afb1,12/18/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",1
+1447071705561-7771862f-7cc0-46c9-b664-9bd414da9770,11/13/2015,Cape Town,sole_proprietor,Retail,0
+1447074384124-8eea1c4a-5160-4758-8c17-4bd58516e155,11/13/2015,Potchefstroom,sole_proprietor,"Food, drink and hospitality",0
+1447141860768-a2602973-5f92-4249-81e7-4c6a9ffaf025,11/14/2015,Cape Town,sole_proprietor,Retail,0
+1447166242354-520de0ad-e089-4cea-8907-7e7b57620290,12/4/2015,Cape Town,sole_proprietor,Retail,0
+1447167039570-f6f4ecc9-a13a-4c43-99c7-4a863cd24017,11/11/2015,Pretoria,practice,"Healthcare, beauty and fitness",0
+1447146023407-5f18af91-ec64-401e-ab0f-653e320b92d2,11/14/2015,Midrand,sole_proprietor,"Healthcare, beauty and fitness",0
+1447186100369-ee111cbc-d4d4-4b72-9b77-3fb606cdb8ce,11/14/2015,Pretoria,sole_proprietor,Retail,0
+1439402846011-18c7f2a7-fcab-498a-b478-7be40735f4a2,8/19/2015,Plettenberg Bay,sole_proprietor,Retail,0
+1439628825335-5dc87a82-adc2-4d26-abce-fa124ca7c547,11/2/2015,Johannesburg,company,Retail,0
+1439661598153-41fc276c-413a-431a-a20f-55e9cb6c22dc,8/15/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1439553491873-e1dab1a6-6395-403f-a5c1-2a31a029ff92,8/22/2015,Hermanus,company,"Food, drink and hospitality",1
+1439477365242-4f5ecc4a-b92f-4a2c-add0-9a2132828cfb,8/19/2015,Johannesburg,company,"Food, drink and hospitality",0
+1439995137936-be877cab-3c6c-4f8e-9b21-12bdfe5de4e2,8/28/2015,Rivonia ,sole_proprietor,"Food, drink and hospitality",0
+1439981205866-88823528-9c4c-4471-992b-9ecfd0bee19c,8/20/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1439800021688-9b59be58-ce0b-4eff-90d4-9d4bef7ea9da,8/20/2015,Cape Town,sole_proprietor,Online,0
+1440168895810-6d1fb58b-1a6d-4f39-bbf6-7ecd9abe5227,10/27/2015,Cape Town,company,Professional services,0
+1440051882363-1378cba4-3b54-4f79-bf18-7045610aadf0,9/14/2015,Durban,company,"Food, drink and hospitality",1
+1440089216662-71c2f167-2765-49ac-a243-8afb4fda5b7c,8/25/2015,Cape Town,company,Professional services,0
+1440139933847-c22aacf5-2817-496d-80aa-91dd423cdecc,8/27/2015,Johannesburg,company,Retail,0
+1440410340087-fd3ec10a-e8df-4005-82ee-e4358464ee42,9/17/2015,Cape Town,company,Retail,0
+1440403106972-19885eca-e128-4ce2-b966-837267447388,8/26/2015,Cape Town,company,Professional services,1
+1440490600269-de9ef168-2bc9-4277-bc73-8b7c7a454562,9/1/2015,Johannesburg,company,Retail,0
+1440440046485-3ef38fda-c2e6-496e-b7b1-ae0ed01dba8d,8/27/2015,Cape Town,company,Professional services,0
+1440491809323-122dd2e6-90bf-47bf-8d92-cc11c7740aff,8/26/2015,Pretoria,company,Leisure and entertainment,0
+1440485430408-1d7c7110-9104-4448-8be6-96f89f593b9e,8/28/2015,Johannesburg,sole_proprietor,Leisure and entertainment,0
+1440419400214-5fcd4e51-f13a-451f-a6c5-0a74b68fef5a,9/21/2015,Cape Town,sole_proprietor,Online,0
+1440585361828-67d0d840-c4b6-4115-a498-978e3383d643,9/1/2015,Hillcrest,company,Home and repair,0
+1440585361828-67d0d840-c4b6-4115-a498-978e3383d643,9/1/2015,Hillcrest,company,Professional services,0
+1440501642610-9670200e-7971-4b71-87f1-e6c65249bf39,8/28/2015,Cape Town,company,"Food, drink and hospitality",0
+1440527243015-6462ce3f-f6c6-4dd6-89f7-b737311b75d8,9/7/2015,Cape Town,company,Retail,0
+1440588829457-71654f83-a737-439f-8f1e-a6f7758cd140,8/29/2015,Cape Town,company,"Food, drink and hospitality",1
+1440502835058-1b7a00e0-7836-4357-88ec-f1f4ce9c8738,9/6/2015,Cape Town,company,"Food, drink and hospitality",1
+1440583345268-bcf91e05-0c4e-4451-8db9-a74c6eb39640,8/29/2015,Durban,company,"Healthcare, beauty and fitness",0
+1440683374795-da2d9211-0012-4fd7-94f2-826e3d290c50,9/5/2015,Cape Town,company,"Food, drink and hospitality",0
+1440617645575-c2334b24-98fa-42fb-9d9e-81d7f568373c,9/17/2015,Johannesburg,sole_proprietor,"Healthcare, beauty and fitness",0
+1440744904285-bd213fb2-c53f-4f1f-823c-66996b168e72,9/3/2015,Cape Town,company,Travel and tourism,0
+1440757994360-5e012426-7d6d-46df-baf8-fa9bdc3a7feb,8/29/2015,Johannesburg,company,"Healthcare, beauty and fitness",0
+1440738111178-52d834c0-939a-4832-a762-66703116e8bd,8/31/2015,Cape Town,company,"Food, drink and hospitality",1
+1441020449503-2923f2b1-899b-45ed-87ff-8abb87ece3ab,8/31/2015,Johannesburg,company,"Food, drink and hospitality",0
+1441192085865-a271abcb-2dc5-49c9-bd0d-b17cd2a6c34c,9/5/2015,Stellenbosch,company,"Food, drink and hospitality",1
+1441273616275-5d8226ee-f199-4eb4-92af-d6c1f44eca1d,9/7/2015,Cape Town,sole_proprietor,Retail,0
+1441200497922-edf8fabe-311c-48bd-9bff-b30ff545bffb,9/2/2015,Bellville,sole_proprietor,Professional services,0
+1441190129840-d1bc42c0-44b6-4267-94b1-e9972ab5b9c0,10/7/2015,Johannesburg,sole_proprietor,Home and repair,0
+1441284315178-a91cafa7-38e7-449b-92b7-08b0f0385381,9/22/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1441304751752-6323f14b-0faf-4542-a5ef-6c477968ab28,9/12/2015,Johannesburg,company,Online,0
+1441367655940-07a008e7-460e-499c-a044-826dc363e801,9/12/2015,Cape Town,company,"Food, drink and hospitality",0
+1441294773353-5af65884-f9a6-4467-a3d8-2658d911d04e,9/7/2015,Johannesburg,company,Retail,0
+1441281561982-7eb3827e-1c92-47e3-9cab-bb483f8fc03c,10/16/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1441302580374-1f5f13c7-76cf-48a7-829e-773c83c21fa1,9/10/2015,Stellenbosch,company,"Food, drink and hospitality",1
+1441630275745-ef850f73-39ec-441f-86ae-da848270891e,9/11/2015,Boksburg,sole_proprietor,Online,0
+1441626539104-5d6cbb54-54ad-427a-9aed-6f7774c2d1ab,9/11/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1441466371823-ee89da2a-57c8-4afc-8feb-b706f88783ac,9/9/2015,Cape Town,company,"Food, drink and hospitality",0
+1441648387599-2612b2ac-3c0c-442c-bef4-393b8785ff78,9/10/2015,Durban,company,"Food, drink and hospitality",1
+1441723038838-90ed4090-8f75-43e0-8862-0c005a5b75a8,9/9/2015,Cape Town,company,Home and repair,0
+1441713717962-f7e615dd-54f9-4f67-8dee-7dd0b4e22f13,9/10/2015,Cape Town,company,Professional services,0
+1441780389378-94f499f6-baa9-40bf-bfb4-842da422e8ac,10/14/2015,Sedgefield,company,"Food, drink and hospitality",1
+1441642130226-fd0787b2-e9dc-4405-a807-b17d33d36768,9/9/2015,Johannesburg,sole_proprietor,"Healthcare, beauty and fitness",0
+1441713823095-4b0162f3-5e6c-46f1-9860-d1232287c317,10/15/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1441811947231-f2835c9b-a848-40ab-9131-61229298a884,9/17/2015,Kempton Park,sole_proprietor,Professional services,0
+1441797894142-8522a3de-64ec-4e17-8121-f1587da99b04,10/2/2015,Johannesburg,company,Personal services,0
+1441887632624-a85a07f8-f748-4967-87fd-de2e588a6231,9/11/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1441877504764-0bf0eebe-3156-4409-a684-1b07397fed1c,10/6/2015,Johannesburg,company,Professional services,0
+1441962068158-ff1f3ada-360f-47bf-a350-5233bad987a9,9/21/2015,Cape Town,company,"Food, drink and hospitality",1
+1442071005022-6b581f22-c2ab-4f56-9756-497c18e7a182,9/18/2015,Hillcrest,sole_proprietor,Professional services,0
+1441963747798-c6512828-3479-47ee-89ce-83484c18251a,9/14/2015,Cape Town,company,Retail,0
+1442224473091-abc30f83-6296-4af9-a2cc-d3820f94d673,10/14/2015,Cape Town,company,"Food, drink and hospitality",1
+1442233924582-7a31c3bf-461a-4ab8-99e7-96ab43f4453f,9/18/2015,Cape Town,sole_proprietor,Retail,0
+1442218938461-45ea11f8-11bc-4865-92c5-300dfb8f7569,9/18/2015,Bronkhorstspruit,practice,"Healthcare, beauty and fitness",0
+1442218528701-eb6cfcd6-9553-4b0c-bf70-eb24cdbdd224,9/16/2015,Johannesburg,company,Retail,0
+1442225327607-df0b3544-b4ff-4c21-8f41-46b466c53361,10/21/2015,Kuilsriver,company,"Healthcare, beauty and fitness",0
+1442242087724-db447275-47eb-49a0-ba9f-b8b510ecf627,9/16/2015,Bellville,sole_proprietor,Retail,0
+1442258665606-4d258111-a29f-4ebb-8ba3-13fdf64d260d,9/21/2015,George,sole_proprietor,"Food, drink and hospitality",0
+1442327151160-68d12295-a83e-47e4-869c-94ffcb776722,9/16/2015,Cape Town,company,Retail,0
+1442248757417-df29c3ca-abfc-4134-9d35-b4721a45eea3,9/18/2015,Cape Town,company,Professional services,0
+1442312797385-01ad3db8-0a54-4899-b6fd-a6a095749f23,9/21/2015,Durban,sole_proprietor,Retail,0
+1442410415816-460a165c-5802-49e0-ade2-1f3e381babd2,9/22/2015,Johannesburg,sole_proprietor,Professional services,0
+1442477149306-94150c8e-a62f-4712-bb9a-d5696cbea498,9/20/2015,Cape Town,sole_proprietor,Retail,0
+1442394321742-4b6883c5-ed51-46c8-8f34-68f8556e3be1,9/22/2015,Cape Town,practice,Retail,0
+1442410347801-6af9d657-44c2-4f9a-93dd-f43846668720,9/22/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1442469070953-5b965cfe-ac9c-46dd-9537-e67b3f79fed0,10/2/2015,Cape Town,company,"Food, drink and hospitality",1
+1442563881963-a3393331-cf28-48b7-b31d-347b1b000533,9/22/2015,Cape Town,company,"Food, drink and hospitality",1
+1442561626720-a7b4e31d-08c5-4487-8f20-57741750c705,10/24/2015,Durban,company,"Food, drink and hospitality",1
+1442571575839-0c25d922-05af-426a-bc1f-05aa2c48fcaf,10/27/2015,Cape Town,company,Online,0
+1442559639504-d30c6cfb-2dd8-4d75-918f-2cc17fa83658,9/29/2015,Johannesburg,company,Leisure and entertainment,0
+1442575726431-a066cad9-8f66-45da-abd8-165ce0a70d33,10/16/2015,Heidelberg Wc,company,"Food, drink and hospitality",1
+1442618911884-1a54c4db-f37e-4279-aabd-214b284bd32e,10/7/2015,Johannesburg,company,"Food, drink and hospitality",0
+1442649021557-a53873ac-ab2b-41da-9706-c68dc9ce6eee,10/9/2015,Pretoria,sole_proprietor,Leisure and entertainment,0
+1442814718952-f7add3cc-7dea-468f-ac36-196f631dc767,9/23/2015,Somerset West,company,"Food, drink and hospitality",1
+1442927540994-7a6c2700-2ee9-4a0c-89bf-804354e23435,9/26/2015,Cape Town,company,Professional services,0
+1442917261179-65dbd4f5-497a-405d-a41e-c14f9f85dc46,12/9/2015,Stellenbosch,sole_proprietor,"Food, drink and hospitality",0
+1442923083526-17850cd1-90b2-4086-b503-0c49ac3cf6bb,10/1/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",1
+1442931723919-732162e5-a1d7-44fb-8dbf-d473924ac6a3,10/24/2015,Grabouw,trust,Home and repair,0
+1442995087827-3b02b00b-c6d1-4ba0-bbd7-661a9670d778,9/25/2015,Cape Town,company,"Food, drink and hospitality",1
+1442998231230-06acd472-54ca-4966-bb42-354973e4c9e1,9/27/2015,Builders Way Centre,company,"Food, drink and hospitality",1
+1442994514427-48e97bf3-61c8-4a68-8bd2-2a064fcee005,10/30/2015,Johannesburg,company,Home and repair,0
+1443039806617-14949b2d-00a3-4c85-83f9-8fbdfedcb11d,9/28/2015,Marble Hall,company,Home and repair,0
+1443048583744-e2f2fdea-5260-4835-9d94-ad74b045c63a,9/29/2015,Johannesburg,company,Leisure and entertainment,0
+1443153863775-93e8b36c-0884-49ba-b5a0-8d3ff2580214,10/29/2015,Middelburg,company,Online,0
+1443177632981-847f08de-41a5-4110-abe2-53303ad67128,9/29/2015,Cape Town,company,"Food, drink and hospitality",0
+1419247136977-8b58a827-d849-4562-b610-3738e1ec535c,11/30/2015,Johannesburg,company,Online,0
+1444708106706-9b5eaad5-daf4-455e-9e51-02a00727b2b1,11/25/2015,Bloemfontein,sole_proprietor,Retail,0
+1447769232260-89782677-915f-41de-a2bf-56db8196b87e,11/27/2015,Johannesburg,company,Retail,0
+1447324371500-8418997d-1b1a-465f-85fc-78a550b57a7f,11/25/2015,Cape Town,company,Retail,0
+1448307984682-a9132048-645e-4f78-bb10-c26fab459162,11/26/2015,Cape Town,sole_proprietor,Home and repair,0
+1448352746164-5b023087-c530-4c30-8e05-a74629d0f7b3,11/26/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1448265052361-eb376c96-a9ae-4ddf-88a9-019ad1677a56,11/27/2015,Stellenbosch,company,"Food, drink and hospitality",0
+1448459457734-29ce467e-c62b-4f76-a624-91f7f12afd47,11/26/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1448430223581-6f95e029-974e-4a4e-bb2c-0ae42ba01384,11/25/2015,Bredasdorp,trust,Travel and tourism,0
+1448893114807-72d69711-3e41-4eac-9171-b97ab9a39e74,11/30/2015,Umhlali,company,"Food, drink and hospitality",1
+1448895412143-9c0f9335-2a5e-433e-82a6-b2bc1a23acf1,11/30/2015,Milnerton,company,Online,0
+1447050110715-0fa446b3-26a8-461b-a0d3-d159ed1039f7,11/25/2015,Howick,sole_proprietor,"Food, drink and hospitality",0
+1447832081506-74ae5936-e940-499c-bbec-c566918b2679,11/25/2015,Riebeek Kasteel,company,"Food, drink and hospitality",0
+1448002116800-210f58ff-db09-4bbb-832b-dcc94369ae75,11/25/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1448442854979-902febd6-2172-4e4f-bff5-003afc1232ee,11/25/2015,Springbok,sole_proprietor,Travel and tourism,0
+1447999285367-3dfb242a-d597-4d5b-9a12-272b8118b45c,11/25/2015,Pietermaritzburg,sole_proprietor,Personal services,0
+1449132110080-65b5a518-b0f5-4573-b744-6f65cd496fcc,12/3/2015,Cape Town,company,Retail,0
+1447955967188-d2b394ea-741b-4b61-9abe-b1c5c2953cda,11/25/2015,Alberton,sole_proprietor,Home and repair,0
+1448636239609-f6bed8d0-bb01-4f5b-a744-f59fa1caffed,11/27/2015,Cape Town,company,Retail,0
+1447327002024-54813702-4197-41f0-9448-82fcaa7ade2d,11/30/2015,Cape Town,company,Online,0
+1432022024429-0455c641-f0d5-481b-83c9-b05da6450ec5,11/25/2015,Bloemfontein,company,"Food, Drink & Hospitality",1
+1448436563787-2d09f8fe-503d-4153-a929-568c9b01dadc,11/25/2015,Blackheath,company,Leisure and entertainment,0
+1448040131745-d7e77287-f111-4e4b-a63b-bf059a414468,12/2/2015,Paarl,sole_proprietor,Retail,0
+1448306537547-f729c6f2-55da-4c27-b307-7d17fc1a8456,11/25/2015,Brakpan,sole_proprietor,Leisure and entertainment,0
+1448623737157-0ebff08a-b6bc-4e88-afe6-544cc95cbe04,11/27/2015,Cape Town,company,Leisure and entertainment,0
+1448373038509-45b5421d-4a9e-4438-88e7-5c7fe69097a8,11/25/2015,Cape Town,company,Retail,0
+1441807620009-ff0744e0-ce67-42ce-8851-5016b4fd5bba,11/30/2015,Johannesburg,sole_proprietor,Online,0
+1448483991126-e1e114cc-9a10-4bd5-b0fc-46cf205d1255,11/26/2015,Cape Town,company,"Food, drink and hospitality",1
+1448526785005-bf805f5e-91da-45bd-a56b-4db9020fbba2,11/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1447140318690-0a6b591f-99e9-4c82-84dd-31a39007e6fe,11/27/2015,Cape Town,sole_proprietor,Home and repair,0
+1446617408335-f361c386-c4d2-4fbb-bb37-6500c8a4754b,11/27/2015,Cape Town,sole_proprietor,Leisure and entertainment,0
+1448033825703-664ca642-0c88-4fe7-aad5-3335cee5c693,11/25/2015,Johannesburg,company,Retail,0
+1448571291575-faf85e80-cff5-4b9e-8336-e120e744916c,11/27/2015,Cape Town,company,Retail,0
+1448571685276-f77df807-c582-4812-a306-2aa31e37876f,11/27/2015,Cape Town,company,"Food, drink and hospitality",0
+1448602276845-519dfd24-002e-4931-b146-6a77f450caa8,11/27/2015,Cape Town,company,Retail,0
+1448604491291-0b610c90-e083-464f-864d-3501e3b9e9a3,11/27/2015,Stellenbosch,company,Retail,0
+1448960308598-cf3ba854-c01c-4259-9350-33fde6bf0049,12/1/2015,Cape Town,trust,Retail,0
+1448961044209-ca00a8ce-1cac-4545-a781-a3ff98cfe19f,12/1/2015,Cape Town,sole_proprietor,Retail,0
+1448015232800-4f6790cc-c293-4d01-b4c1-0778548cc3c5,11/25/2015,Johannesburg,sole_proprietor,Retail,0
+1448470429906-1254c8c8-f684-4b60-afbc-a1a5f9440fca,11/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1448355000639-c8ef9f8c-2532-4eae-a46c-4a80252cb19d,11/25/2015,Cape Town,sole_proprietor,Retail,0
+1448963317701-c2f4a322-4e73-4972-b95e-5485efd9565f,12/1/2015,Touws River,company,Professional services,0
+1448891544282-772c4000-54b6-4cda-9449-1c74e7974b7e,12/1/2015,Darling,company,Online,0
+1448452376799-6726d94f-e79b-466a-9c9a-20983fefcb43,11/25/2015,Cape Town,company,Retail,1
+1448774954803-8d580d28-170f-46b8-87db-39f34940398d,11/29/2015,Stellenbosch,company,"Food, drink and hospitality",0
+1448615350196-4e471824-431e-4553-a52f-8bc4035978c9,11/27/2015,Cape Town,company,Retail,0
+1448354016112-6a60db5e-edb3-4c21-91b2-51319c2cc25d,12/1/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1447836021239-b0620a8c-2e3d-4498-a8ac-ce5214c586a1,12/3/2015,Langebaan,company,"Food, drink and hospitality",0
+1448966741568-0bd8bb0d-665c-4a23-b9f0-d981f96ea52e,12/1/2015,Mosselbay,sole_proprietor,Travel and tourism,0
+1439395992943-30dad8bf-6d97-47f1-a59b-f32be5896add,12/1/2015,Cape Town,company,Leisure and entertainment,0
+1447091326675-4c50dd1c-a93e-48a5-82c7-68deca1dadf0,12/1/2015,Naboomspruit,company,"Food, drink and hospitality",0
+1446100276851-4d6843de-2dde-462c-9abf-2b82044cabbd,12/1/2015,George,sole_proprietor,Travel and tourism,0
+1445859989485-105adb75-9ed1-4062-8ded-4c4680876409,12/3/2015,Boksburg,sole_proprietor,"Food, drink and hospitality",1
+1438159585500-ee0cee04-42e2-4b60-973d-503584128c79,12/1/2015,Cape Town,company,Retail,0
+1447671150054-17afb918-94e7-440f-bf5d-5cffe96122cd,12/1/2015,Cape Town,company,"Food, drink and hospitality",1
+1448394887974-210ed301-c88c-4215-a3da-962e59c64e90,11/24/2015,Durban,sole_proprietor,Retail,0
+1448283994574-1d772ff5-60e5-4ce0-a63b-aa8c3d77fdb1,11/24/2015,Tarkastad,trust,"Food, drink and hospitality",0
+1448957686917-9edfc17f-77cb-4101-9019-fa71f21d1a5d,12/3/2015,Ellisras,company,Retail,0
+1446461839082-537bb26d-b226-45f6-aabc-731c5f137549,12/3/2015,Cape Town,company,Home and repair,0
+1449089982437-0f6c6a86-8ef3-4904-aab2-6197534e53d0,12/2/2015,Johannesburg,sole_proprietor,Leisure and entertainment,0
+1448534160094-925ee4f9-ba7d-4bcd-ac5b-9cb5a0cd9354,11/26/2015,Cape Town,company,Retail,0
+1449084462951-06638e74-f7d4-42c9-be90-359d7ee55be1,12/3/2015,Johannesburg,company,Home and repair,0
+1449147413654-d4825a1e-3ae8-4829-a827-a3723c46e02f,12/3/2015,Stellenbosch,company,"Food, drink and hospitality",0
+1448618295356-bdb40f93-1ef4-4e6c-969f-e09347d91d0c,11/27/2015,Cape Town,company,Leisure and entertainment,0
+1447337781947-ae64420f-c13c-49ba-b7a8-9173a718fe71,11/25/2015,Stellenbosch,company,Leisure and entertainment,0
+1448024874663-ad6dd7df-5114-4cd2-aa77-5e0f7b8dde79,11/25/2015,Johannesburg,sole_proprietor,"Healthcare, beauty and fitness",0
+1448425989998-7d99d6d6-62d8-4052-9426-836cc7597ce8,11/25/2015,Cape Town,company,"Food, drink and hospitality",1
+1448544459295-d9931418-57a5-4e01-8464-74c83815c7cf,11/26/2015,Stellenbosch,sole_proprietor,Professional services,0
+1448218963383-86fa885f-c722-4beb-86a8-7acb5e757897,11/25/2015,Johannesburg,sole_proprietor,Personal services,0
+1447324716619-f5e2ca6d-4b45-4bb6-8271-e77ba3b1d1f8,11/25/2015,Johannesburg,company,"Food, drink and hospitality",0
+1448037525841-12763aac-642d-4e9c-9a72-824c55062972,11/25/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1448011089976-16aa9d71-055c-4a75-88ec-41c395e01854,11/25/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1448017539589-632cc9ba-8998-4d35-9ddc-cea234174e25,11/25/2015,Johannesburg,company,Professional services,0
+1448619829442-d1c752e3-fe57-4d4e-aa7a-00248b4d63c4,11/27/2015,Gordon's Bay,company,Retail,0
+1448546661613-27951f72-4e8e-4855-bc2a-6d5a93ff9f69,11/26/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1448878441699-98a102a1-2bb6-438e-bb94-30f3e54370d5,11/30/2015,Randburg,company,Leisure and entertainment,0
+1449042687702-8a8f20e2-77a3-4d14-960b-5d676d0c53fa,12/2/2015,Cape Town,company,Online,0
+1449132779062-5b8dd18e-98ac-49b6-ab2e-7253d6ed6ef0,12/3/2015,Cape Town,company,Retail,0
+1449052544270-296908e1-6b57-43a2-ab19-48b76a0664a7,12/2/2015,Pretoria,company,Retail,0
+1448961632644-676e9632-6752-421e-9cf7-220aa9a845bf,12/3/2015,Pretoria,sole_proprietor,Leisure and entertainment,0
+1449128480650-b73ee6ec-f40a-421a-b690-49945e04a598,12/3/2015,Krugersdorp,company,"Healthcare, beauty and fitness",0
+1448880137335-611bfdff-a415-440a-8e06-2b54ee505d96,11/30/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1448875613406-fbaa1ec0-7c3a-4aa9-907d-febbd1bb1966,11/30/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1448614876805-32258578-b00c-40e1-83d4-5ff3507a3659,12/3/2015,Thulamahashe,company,Travel and tourism,0
+1448877143031-a8506e78-765c-4a4e-a89f-dfccf53f578e,11/30/2015,Cape Town,company,Retail,0
+1444800143900-2e147910-5c3c-4312-b4ea-e63fda9ede9b,12/3/2015,Cape Town,company,Retail,0
+1449169193330-7329ff68-92cf-453c-886c-6a5e3cfec23e,12/3/2015,Randburg,company,Retail,0
+1449056478205-60b4b50e-1fd7-4f33-a263-c23725c71f29,12/3/2015,Cape Town,sole_proprietor,Retail,0
+1449151630941-488840f8-5bee-4087-a399-6fa6f73a1463,12/4/2015,johannesburg,sole_proprietor,Home and repair,0
+1449226047295-ee188e65-6de8-4e8c-9e10-dd836991ee38,12/4/2015,Germiston,company,"Food, drink and hospitality",0
+1446217814203-cd115095-dde1-456c-87d0-075f79f73dc8,12/4/2015,Johannesburg,company,Retail,0
+1449280685497-3912f743-48df-49c6-878f-444b75f0c68b,12/5/2015,Pretoria,company,Retail,0
+1449325681016-1309f451-4803-4d9c-82b5-0371aab39523,12/5/2015,Cape Town,company,Home and repair,0
+1445090489612-89a33753-99cc-471d-85fc-6e4454403d10,12/5/2015,Johannesburg,company,Professional services,0
+1438065141962-8b6a526c-b07c-4f38-8f1e-df3082e4eb8d,12/5/2015,Johannesburg,company,"Food, drink and hospitality",0
+1449390222688-b33275a0-aa8f-4930-b8bb-2229be0e0ea1,12/6/2015,Johannesburg,sole_proprietor,Professional services,0
+1434111992757-f2269198-1fa3-442c-be1a-e5212e56e283,12/7/2015,Cape Town,company,Leisure and entertainment,0
+1448358950218-e1b98ad3-f6fd-48d9-9820-2c7c47df1186,12/7/2015,Grabouw,company,"Food, drink and hospitality",0
+1449485873585-75a62dd6-e00f-4de7-9bdc-c3a924c6825b,12/7/2015,Jeffreys Bay,company,"Food, drink and hospitality",0
+1448889328897-49e1044e-f24b-455d-9391-6e06f323a9c1,12/7/2015,Johannesburg,sole_proprietor,Retail,0
+1449476776413-e74fbc73-9ab0-4dac-b53c-80476a045ab6,12/7/2015,Cape Town,company,Travel and tourism,0
+1449426758674-b57c8fea-4ebd-4974-a7a5-0a8bb430fd3b,12/7/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1449231730597-b04893d3-752f-49c4-a97e-9207ece6a36b,12/7/2015,Jeffreys Bay,sole_proprietor,"Food, drink and hospitality",0
+1448905172607-91a48ebb-386b-4a2e-a3c7-cbece672d20d,12/8/2015,Johannesburg,company,Professional services,0
+1449575806937-768f8187-a864-4b46-b1f0-01c4ab7f1564,12/8/2015,Graaff-Reinet,company,"Food, drink and hospitality",0
+1449578978370-0a3e37de-3da0-4d54-b723-d30657b8512d,12/8/2015,East London,company,Leisure and entertainment,0
+1436350153560-51a17ce7-7951-471b-aafa-0d3dba2718fc,12/8/2015,Durban,company,Retail,0
+1449598303894-8b0c76c8-1883-4186-abb9-997f83e0fe75,12/8/2015,Cape Town,sole_proprietor,Retail,0
+1449601654493-ec006c10-1017-4916-8e31-6d9d102961ad,12/8/2015,Bloemfontein,sole_proprietor,"Healthcare, beauty and fitness",0
+1449653127366-00e647b8-d91d-4792-adf3-c6e46e78da5a,12/9/2015,Pretoria,sole_proprietor,Travel and tourism,0
+1448958755531-5b683b8c-21c1-43de-860d-dad09eb13f21,12/9/2015,Cape Town,company,Retail,0
+1449661301039-77f4fba2-1158-4585-8d72-2abbcf00a119,12/9/2015,Stellenbosch,sole_proprietor,"Food, drink and hospitality",0
+1449672996981-a2aef5c2-d205-4e64-b83a-f858377fea82,12/9/2015,Johannesburg,company,Home and repair,0
+1449683003452-d5ae9682-9e24-4db0-b98e-addd58934599,12/9/2015,Cape Town,company,"Food, drink and hospitality",1
+1444123887696-5eb7a4b8-33b0-412e-bfd8-a696dcec7ceb,12/9/2015,Pietermaritzburg,sole_proprietor,Retail,0
+1449736096886-d1930cfe-8623-419a-942c-9bd0c2376b37,12/10/2015,Johannesburg,company,Retail,0
+1449745583130-e877fe5d-d339-46d7-ae83-39e98c740930,12/10/2015,Cape Town,company,Retail,0
+1449745621565-783391ee-ab69-493d-83b3-0283638d448a,12/10/2015,Johannesburg,company,Leisure and entertainment,0
+1449744887791-f8aa3a21-df90-4a2f-a342-61e9b729cf5c,12/10/2015,Jeffreys Bay,company,"Food, drink and hospitality",0
+1449750776367-c89440d4-8d17-4c5f-80f1-0846fb467d89,12/10/2015,Jeffreys Bay,company,Home and repair,0
+1449737993378-40d6d5fa-b55e-4de2-bc84-1f9d059dcfa3,12/10/2015,Cape Town,company,Home and repair,0
+1447186477008-7b498889-6ebc-4bed-8800-65253d59e946,11/17/2015,Cape Town,company,Online,0
+1447228037121-0a9f5a10-025c-40d3-9569-3a553316e03d,11/17/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1447224221527-6a36a052-b0f8-4cd6-9da6-3ddf6209e3c3,11/12/2015,Cape Town,company,"Food, drink and hospitality",1
+1447192202398-f8b09255-a0b0-4879-8590-c0267c87868d,11/13/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1447176760825-e1228667-1a17-4d8e-84d4-3c49869b59e2,11/13/2015,Johannesburg,company,Retail,0
+1447235482926-8e460690-8a86-42c9-b39f-d1c95cabeb9f,11/16/2015,Ladysmith,company,Online,0
+1447235510272-3b952b8a-aaa6-4050-963c-6c29a42fbf6e,11/26/2015,Pretoria,company,Online,0
+1447229701339-9f0ccde5-c90d-439b-9a20-a2f85f54c005,11/21/2015,Cape Town,sole_proprietor,Home and repair,0
+1447309294277-b0572e98-c059-443f-94d8-fc45cea8e545,11/12/2015,Cape Town,company,Travel and tourism,0
+1447316621450-a581a345-11e3-493d-a6bc-fe7b7f98a496,11/17/2015,Wellington,sole_proprietor,Travel and tourism,0
+1447333665252-4a1991aa-0173-460d-9021-c7c597cb0a13,11/16/2015,Cape Town,company,"Food, drink and hospitality",1
+1447395828633-fd962e8f-b353-45f5-9b54-fc212e0a615f,11/23/2015,Durban,company,"Food, drink and hospitality",1
+1447396516213-1886c917-a640-4d15-8c61-3789928ccd6c,12/3/2015,Johannesburg,company,"Food, drink and hospitality",1
+1447394867034-7ffd322d-7611-45ef-b8f2-e61c758ca310,11/26/2015,Pretoria,company,Retail,0
+1447410481107-b9906893-2d9f-4755-9870-2413dfe91a73,12/3/2015,Sandton,company,"Food, drink and hospitality",1
+1447426078193-439ea255-ba35-4dd5-b398-f0bf7b1aac5a,12/4/2015,Johannesburg,company,"Food, drink and hospitality",1
+1447519950666-736dc0f9-424a-4660-b9fd-45a366a743d0,11/23/2015,Johannesburg,sole_proprietor,Retail,0
+1447606069672-4840e1a4-ad31-49a7-9a15-6b817db8a502,11/17/2015,Hermanus,company,Retail,0
+1447659678920-65ba65e0-7f35-4f4d-8502-8345b2b97cf2,11/25/2015,Cape Town,sole_proprietor,Retail,0
+1447653307135-90565f1a-f7ac-4a65-b5c3-bc50a042f1ee,11/27/2015,Gordon's Bay,company,"Food, drink and hospitality",0
+1447667795619-f99c2dd5-7d8e-425e-8b26-675b0be7687c,11/26/2015,Cape Town,company,"Food, drink and hospitality",0
+1447525188282-caac9488-9646-4d7b-86a1-5afd77cd1567,11/18/2015,Roodepoort,sole_proprietor,"Food, drink and hospitality",0
+1447682222446-c8a2a6d4-6236-4be1-ab33-687bb914c7fd,11/21/2015,Cape Town,sole_proprietor,"Healthcare, beauty and fitness",0
+1447696515746-86ab0445-1c98-4f7f-be4a-4f5bba39e075,11/21/2015,Knysna,company,"Food, drink and hospitality",1
+1447678930083-bc1fbb8f-2b3d-4f81-89ee-f4d74f34ff7a,11/25/2015,Bellville,company,"Food, drink and hospitality",0
+1447697009186-745f5ece-ddbf-4eab-8563-7f01311ebdf3,11/18/2015,Cape Town,company,"Food, drink and hospitality",0
+1447697018839-d867d6b4-5000-4c2a-9bc1-213b6f9ab1d5,11/20/2015,Grahamstown,sole_proprietor,Retail,0
+1447746067400-b126976b-e446-413c-8597-321cb46b7862,11/19/2015,Cape Town,company,Retail,0
+1447766148908-a9772a55-233e-40f5-b98d-5d124b6490cb,11/22/2015,Cape Town,sole_proprietor,Travel and tourism,0
+1447786890334-f4b272d1-d56f-4f66-97e6-d503381819af,11/20/2015,Centurion,sole_proprietor,Retail,0
+1447771782378-b9140472-defa-4493-aa29-c1dd1526a8ef,11/20/2015,Johannesburg,sole_proprietor,Retail,0
+1447845999143-2dc33190-2fd7-4a38-b538-b876799cbfac,11/23/2015,Cape Town,company,"Food, drink and hospitality",1
+1447927563274-da7673a7-a23b-4f01-95d1-0815e169de8a,11/26/2015,Plettenberg Bay,company,"Food, drink and hospitality",0
+1447940390449-5ffa9084-b6f4-49e1-b3c0-a26d0d85e949,11/23/2015,Durban,sole_proprietor,"Food, drink and hospitality",1
+1447938772541-780d7ea1-8b95-465b-8fdf-ef192c859b73,11/20/2015,Melkbosstrand,company,"Healthcare, beauty and fitness",0
+1448010304607-5dce5236-a322-4826-8aa1-3278c780357a,11/24/2015,Cape Town,company,"Healthcare, beauty and fitness",0
+1448090259937-36064d33-7928-4650-8bcc-6704983a7415,11/27/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1448269813171-7dba4962-63f7-41d3-87b1-4c1d64865b4d,11/24/2015,Stellenbosch,company,"Food, drink and hospitality",0
+1449738820408-c8f22062-f217-485c-b144-96d1c2cba715,12/10/2015,Cape Town,company,Retail,0
+1435065034263-d4d30f20-eed3-47dd-9d52-ee3c9b1dda5d,12/10/2015,Cape Town,company,Retail,0
+1449809321461-60bee972-d3e9-4db9-bd43-4aac83999483,12/11/2015,Cape Town,sole_proprietor,Retail,0
+1449651385785-20e91ce1-c9e4-4b15-989e-993f33d2e842,12/11/2015,Randburg,company,Professional services,0
+1449837083150-09de93c7-b0b6-4c56-a0b7-5e7699f361ea,12/11/2015,Sabie,company,Retail,0
+1449854427131-434d83f2-f727-4a6a-bd5f-236341424025,12/11/2015,Cape Town,sole_proprietor,"Food, drink and hospitality",0
+1441376308192-da26103b-c257-40e8-af50-f8f52e6ef38b,12/12/2015,Stellenbosch,company,Retail,0
+1449939882951-081ca58f-3320-4d06-8d4f-bf931f3d19d1,12/12/2015,Cape Town,company,"Food, drink and hospitality",0
+1450079485587-1343f7f6-d934-48c4-bce7-505df86efb55,12/14/2015,Pretoria,company,Retail,0
+1450079434785-32c129a7-e2c1-4d44-8126-a83481eb937b,12/14/2015,Cape Town,company,"Food, drink and hospitality",1
+1450095033323-84663e9f-3ab2-4cb7-8f29-fe750cac2ec7,12/17/2015,Somerset West,sole_proprietor,"Food, drink and hospitality",0
+1450174294194-1bbb91d8-6e2a-4862-a06e-bc121bb19288,12/15/2015,Cape Town,company,"Food, drink and hospitality",0
+1449838766752-a29243a0-2edc-48c4-b642-85dda79fd0fc,12/17/2015,Sabie,company,Professional services,0
+1450083317432-e21655c6-ef9b-4608-a8cf-037e56eb44cc,12/17/2015,Centurion,sole_proprietor,Home and repair,0
+1450293874907-5ef72ff3-3c43-40f3-aca7-234762894042,12/17/2015,Stanger,company,Travel and tourism,0
+1450189820196-3000865d-55ce-4f3a-96bd-2cc6c61d5b3e,12/17/2015,Johannesburg,sole_proprietor,"Healthcare, beauty and fitness",0
+1450180470854-25a469b9-1f51-4cbd-a5cd-af019e7056e8,12/17/2015,Johannesburg,company,Home and repair,0
+1445490641787-db3e9bdd-090f-4efb-b1d0-bd2208c8dc70,12/17/2015,Johannesburg,company,Retail,0
+1450179763937-7bb0207f-e0e9-466b-8cef-7d68339e9663,12/17/2015,Johannesburg,company,"Healthcare, beauty and fitness",0
+1450103691608-fddb2443-a9e3-4140-91da-6780d244893e,12/17/2015,Cape Town,company,"Food, drink and hospitality",0
+1450086538251-ec9b1043-75ef-45ba-9875-a7ec22fee521,12/17/2015,Cape Town,company,Travel and tourism,0
+1450110024445-71aa73a9-3687-42e1-8acd-d53d0d96bec7,12/17/2015,Cape Town,company,Online,0
+1450359304493-c4f77755-3a68-4e18-a2d2-88854cee3c3c,12/17/2015,Cape Town,company,Travel and tourism,0
+1450101780773-fa362e55-6cac-496b-a089-5d688af2cf54,12/18/2015,Cape Town,company,Retail,0
+1450104102764-487cdf2f-ee6d-429b-b35b-d534f0f73f25,12/18/2015,Cape Town,sole_proprietor,Retail,0
+1450453998818-b7c8d8c7-94ba-4995-94ce-d9659d4ed018,12/21/2015,Franschhoek,company,"Food, drink and hospitality",1
+1450685431887-c6acf791-54ed-4b25-ba3c-2494de4c7ac9,12/21/2015,Stellenbosch,company,Professional services,0
+1450509470358-ddc1b23c-b04d-4df0-8e55-d5c5f12b88a0,12/21/2015,Great Brak River : 6525,sole_proprietor,"Food, drink and hospitality",0
+1450763522851-8802eac8-ede5-405b-a3f7-f6b00a904cca,12/22/2015,Johannesburg,company,Home and repair,0
+1450758454653-f8085f58-9ee6-49df-82d5-3b3d70c94aca,12/22/2015,Johannesburg,company,Retail,0
+1450689522221-861a7de3-6f90-42ee-8ced-5a7945d31ab0,12/24/2015,Cape Town,sole_proprietor,Home and repair,0
+1446180442506-4a229cf6-b4ce-4a09-b845-0a32b5d2db68,12/24/2015,Cape Town,company,"Food, drink and hospitality",0
+1450965996091-b7b3b01d-7f15-42bc-8b37-6ecbbdca176e,12/28/2015,Centurion,company,Retail,0
+1451282405809-e71371c9-576a-495d-9306-e7e95b43f03a,12/28/2015,Stellenbosch,sole_proprietor,Retail,0
+1443073997436-4d8989b5-56a1-4ab3-89f1-ad7a6ae5ea0d,12/28/2015,Cape Town,sole_proprietor,Leisure and entertainment,0
+1450950412919-b73035ed-9c75-469c-8dbe-359f79ee0a86,12/28/2015,Nelspruit,sole_proprietor,Leisure and entertainment,0
+1451378777985-7c261b2c-01a4-4add-bc11-5de48b6a0813,12/29/2015,Cape Town,company,"Food, drink and hospitality",1
+1451409833018-b9f01ae2-987d-4d31-a537-8b9c708b7f78,12/30/2015,,company,Transportation,0
+1451331852176-0598aecc-13de-4e87-9351-af9fa5bc200d,12/30/2015,Malmesbury,company,"Food, drink and hospitality",0
+1432117712686-383179d5-bbbe-4502-a84c-f2f3abf2a88d,12/31/2015,Cape Town,company,Home and repair,1
+1432117712686-383179d5-bbbe-4502-a84c-f2f3abf2a88d,12/31/2015,Cape Town,company,Professional services,1
+1451559892690-970f27f0-926a-45b8-abb7-e1542421e906,12/31/2015,Somerset West,sole_proprietor,Travel and tourism,0
+1451485631147-0fdf1e4d-c7c0-45de-9976-dec722de5198,12/31/2015,George,sole_proprietor,Home and repair,0
+1447401174036-feb1d7a6-7617-441e-a56c-6deec52bf2a4,11/19/2015,Stellenbosch,company,"Food, drink and hospitality",1
+1447397372171-39537b16-cd61-4caa-a274-615dd2aad968,12/4/2015,Blackheath,company,"Food, drink and hospitality",1
+1447415219816-80abef8d-251d-41fc-8dda-70a27f3f8ea6,11/28/2015,Pretoria,sole_proprietor,Leisure and entertainment,0
+1447424509741-d0b1552f-3a87-4ca9-8ed5-f891b89638b3,12/9/2015,Centurion,company,"Food, drink and hospitality",1
+1447424003510-99556c39-042a-4a5a-acd1-4691a61276a7,12/8/2015,Pretoria,company,"Food, drink and hospitality",1
+1447420241299-849d6ca1-9fba-4576-a945-7853373fda56,12/8/2015,Pretoria,company,"Food, drink and hospitality",1
+1447424959574-e10c4f32-e102-460f-909c-0dd7e9529141,12/2/2015,Johannesburg,company,"Food, drink and hospitality",1
+1447423424088-fdae3cd3-43dc-4bd5-946a-a9592a6a8738,12/8/2015,Stellenbosch,company,"Food, drink and hospitality",0
+1447421067938-353c4238-f18a-4a42-941e-fbcb15aaefbe,12/3/2015,Tongaat,company,"Food, drink and hospitality",1
+1447420859800-f2e8fd79-3425-4793-b5e4-a3e2640a5120,12/2/2015,Sandton,company,"Food, drink and hospitality",1
+1447423332732-bdb0927d-88b0-411d-a724-900e048f1f48,12/8/2015,Pretoria,company,"Food, drink and hospitality",1
