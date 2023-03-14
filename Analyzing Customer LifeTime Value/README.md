@@ -9,8 +9,8 @@ You can find the code for this project here.
 
 ## File overview:
 
-regression.ipynb - the full code from this project
-Local Setup
+CLV codes.ipynb - the full code from this project
+## Local Setup
 Installation
 To follow this project, please install the following locally:
 
@@ -18,10 +18,11 @@ Python 3.8+
 Python packages
 pandas
 numpy
-scikit-learn
-Data
-We'll be using data from the Olympics, which was originally on Kaggle.
 
-You can download the file we'll use in this project here:
+## Data
+I'll be using data from business transactions:
 
-teams.csv - the team-level data that we use in this project.
+You can download the files we'll use in this project here:
+
+finals.csv - the market segment data that I use in this project.
+BusinessTable.csv - The individual business transactions
