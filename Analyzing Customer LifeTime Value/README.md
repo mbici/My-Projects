@@ -24,5 +24,5 @@ I'll be using data from business transactions:
 
 You can download the files we'll use in this project here:
 
-finals.csv - the market segment data that I use in this project.
-BusinessTable.csv - The individual business transactions
+transaction_subset.csv - the individual transactions data that I use in this project.
+BusinessTable.csv - The business information dataset for different clients
